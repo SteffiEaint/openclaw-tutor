@@ -1,1 +1,17 @@
-[\n  {\n    \"courseId\": \"C101\",\n    \"courseName\": \"Introduction to Computer Science\",\n    \"teacherId\": \"T001\"\n  },\n  {\n    \"courseId\": \"C102\",\n    \"courseName\": \"Linear Algebra\",\n    \"teacherId\": \"T002\"\n  },\n  {\n    \"courseId\": \"C103\",\n    \"courseName\": \"World History I\",\n    \"teacherId\": \"T003\"\n  }\n]
+[
+  {
+    "courseId": "C101",
+    "courseName": "Introduction to Computer Science",
+    "teacherId": "T001"
+  },
+  {
+    "courseId": "C102",
+    "courseName": "Linear Algebra",
+    "teacherId": "T002"
+  },
+  {
+    "courseId": "C103",
+    "courseName": "World History I",
+    "teacherId": "T003"
+  }
+]

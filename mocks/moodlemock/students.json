@@ -1,2 +1,102 @@
-[\n  {\n    \"studentId\": \"S001\",\n    \"name\": \"Alice Smith\",\n    \"email\": \"alice.smith@example.com\"\n  },\n  {\n    \"studentId\": \"S002\",\n    \"name\": \"Bob Johnson\",\n    \"email\": \"bob.johnson@example.com\"\n  },\n  {\n    \"studentId\": \"S003\",\n    \"name\": \"Charlie Brown\",\n    \"email\": \"charlie.brown@example.com\"\n  },\n  {\n    \"studentId\": \"S004\",\n    \"name\": \"Diana Prince\",\n    \"email\": \"diana.prince@example.com\"\n  },\n  {\n    \"studentId\": \"S005\",\n    \"name\": \"Eve Adams\",\n    \"email\": \"eve.adams@example.com\"\n  },\n  {\n    \"studentId\": \"S006\",\n    \"name\": \"Frank White\",\n    \"email\": \"frank.white@example.com\"\n  },\n  {\n    \"studentId\": \"S007\",\n    \"name\": \"Grace Kelly\",\n    \"email\": \"grace.kelly@example.com\"\n  },\n  {\n    \"studentId\": \"S008\",\n    \"name\": \"Henry Moore\",\n    \"email\": \"henry.moore@example.com\"\n  },\n  {\n    \"studentId\": \"S009\",\n    \"name\": \"Ivy Green\",\n    \"email\": \"ivy.green@example.com\"\n  },\n  {\n    \"studentId\": \"S010\",\n    \"name\": \"Jack Black\",\n    \"email\": \"jack.black@example.com\"\n  },\n  {\n    \"studentId\": \"S011\",\n    \"name\": \"Karen Red\",\n    \"email\": \"karen.red@example.com\"\n  },\n  {\n    \"studentId\": \"S012\",\n    \"name\": \"Leo Blue\",\n    \"email\": \"leo.blue@example.com\"\n  },\n  {\n    \"studentId\": \"S013\",\n    \"name\": \"Mia Wong\",\n    \"email\": \"mia.wong@example.com\"\n  },\n  {\n    \"studentId\": \"S014\",\n    \"name\": \"Noah Davis\",\n    \"email\": \"noah.davis@example.com\"\n  },\n  {\n    \"studentId\": \"S015\",\n    \"name\": \"Olivia Hall\",\n    \"email\": \"olivia.hall@example.com\"\n  },\n  {\n    \"studentId\": \"S016\",\n    \"name\": \"Peter King\",\n    \"email\": \"peter.king@example.com\"\n  },\n  {\n    \"studentId\": \"S017\",\n    \"name\": \"Quinn Lee\",\n    \"email\": \"quinn.lee@example.com\"\n  },\
-  {\n    \"studentId\": \"S018\",\n    \"name\": \"Rachel Scott\",\n    \"email\": \"rachel.scott@example.com\"\n  },\n  {\n    \"studentId\": \"S019\",\n    \"name\": \"Sam Taylor\",\n    \"email\": \"sam.taylor@example.com\"\n  },\n  {\n    \"studentId\": \"S020\",\n    \"name\": \"Tina Hill\",\n    \"email\": \"tina.hill@example.com\"\n  }\n]
+[
+  {
+    "studentId": "S001",
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com"
+  },
+  {
+    "studentId": "S002",
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com"
+  },
+  {
+    "studentId": "S003",
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com"
+  },
+  {
+    "studentId": "S004",
+    "name": "Diana Prince",
+    "email": "diana.prince@example.com"
+  },
+  {
+    "studentId": "S005",
+    "name": "Eve Adams",
+    "email": "eve.adams@example.com"
+  },
+  {
+    "studentId": "S006",
+    "name": "Frank White",
+    "email": "frank.white@example.com"
+  },
+  {
+    "studentId": "S007",
+    "name": "Grace Kelly",
+    "email": "grace.kelly@example.com"
+  },
+  {
+    "studentId": "S008",
+    "name": "Henry Moore",
+    "email": "henry.moore@example.com"
+  },
+  {
+    "studentId": "S009",
+    "name": "Ivy Green",
+    "email": "ivy.green@example.com"
+  },
+  {
+    "studentId": "S010",
+    "name": "Jack Black",
+    "email": "jack.black@example.com"
+  },
+  {
+    "studentId": "S011",
+    "name": "Karen Red",
+    "email": "karen.red@example.com"
+  },
+  {
+    "studentId": "S012",
+    "name": "Leo Blue",
+    "email": "leo.blue@example.com"
+  },
+  {
+    "studentId": "S013",
+    "name": "Mia Wong",
+    "email": "mia.wong@example.com"
+  },
+  {
+    "studentId": "S014",
+    "name": "Noah Davis",
+    "email": "noah.davis@example.com"
+  },
+  {
+    "studentId": "S015",
+    "name": "Olivia Hall",
+    "email": "olivia.hall@example.com"
+  },
+  {
+    "studentId": "S016",
+    "name": "Peter King",
+    "email": "peter.king@example.com"
+  },
+  {
+    "studentId": "S017",
+    "name": "Quinn Lee",
+    "email": "quinn.lee@example.com"
+  },
+  {
+    "studentId": "S018",
+    "name": "Rachel Scott",
+    "email": "rachel.scott@example.com"
+  },
+  {
+    "studentId": "S019",
+    "name": "Sam Taylor",
+    "email": "sam.taylor@example.com"
+  },
+  {
+    "studentId": "S020",
+    "name": "Tina Hill",
+    "email": "tina.hill@example.com"
+  }
+]
