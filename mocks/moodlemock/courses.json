@@ -1,1 +1,1 @@
-{}
+[\n  {\n    \"courseId\": \"C101\",\n    \"courseName\": \"Introduction to Computer Science\",\n    \"teacherId\": \"T001\"\n  },\n  {\n    \"courseId\": \"C102\",\n    \"courseName\": \"Linear Algebra\",\n    \"teacherId\": \"T002\"\n  },\n  {\n    \"courseId\": \"C103\",\n    \"courseName\": \"World History I\",\n    \"teacherId\": \"T003\"\n  }\n]
