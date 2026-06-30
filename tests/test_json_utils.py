@@ -1,13 +1,12 @@
 import json
 import sys
 from pathlib import Path
-
 import pytest
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT / "scripts" / "util"))
 
-from json_utils import load_json, count_completed_assignments  # noqa: E402
+from scripts.util.json_utils import load_json, count_completed_assignments  # noqa: E402
 
 
 MOCK_DIR = REPO_ROOT / "mocks" / "moodlemock"
