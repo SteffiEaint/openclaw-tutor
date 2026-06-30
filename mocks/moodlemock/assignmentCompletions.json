@@ -353,8 +353,8 @@
     "completionId": "CM051",
     "studentId": "S017",
     "assignmentId": "A006",
-    "status": "completed",
-    "submittedAt": "2026-07-03T10:00:00Z"
+    "status": "missing",
+    "submittedAt": null
   },
   {
     "completionId": "CM052",
@@ -374,15 +374,15 @@
     "completionId": "CM054",
     "studentId": "S018",
     "assignmentId": "A012",
-    "status": "completed",
-    "submittedAt": "2026-07-09T11:00:00Z"
+    "status": "missing",
+    "submittedAt": null
   },
   {
     "completionId": "CM055",
     "studentId": "S019",
     "assignmentId": "A001",
-    "status": "completed",
-    "submittedAt": "2026-06-30T14:00:00Z"
+    "status": "missing",
+    "submittedAt": null
   },
   {
     "completionId": "CM056",
@@ -395,8 +395,8 @@
     "completionId": "CM057",
     "studentId": "S020",
     "assignmentId": "A006",
-    "status": "completed",
-    "submittedAt": "2026-07-03T15:00:00Z"
+    "status": "missing",
+    "submittedAt": null
   },
   {
     "completionId": "CM058",
