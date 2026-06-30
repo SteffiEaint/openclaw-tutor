@@ -29,7 +29,7 @@ students_data = load_json("students.json")
 courses_data = load_json("courses.json")
 assignments_data = load_json("assignments.json")
 enrollments_data = load_json("enrollments.json")
-completions_data = load_json("completions.json")
+completions_data = load_json("assignmentCompletions.json")
 
 print(type(completions_data), len(completions_data))
 print(completions_data[0])
