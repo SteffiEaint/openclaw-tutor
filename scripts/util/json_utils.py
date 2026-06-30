@@ -24,26 +24,45 @@ def load_json(filename):
     # Return the parsed JSON object
     return data
 
-# Load specific JSON files
-students_data = load_json("students.json")
-courses_data = load_json("courses.json")
-assignments_data = load_json("assignments.json")
-enrollments_data = load_json("enrollments.json")
-completions_data = load_json("assignmentCompletions.json")
 
-print(type(completions_data), len(completions_data))
-print(completions_data[0])
+def count_completed_assignments(completions_data):
+    """
+    Counts how many "completed" assignment records each student has.
 
-# Initialize a dictionary to store the count of completed assignments per student
-student_completed_assignments = {}
+    Args:
+        completions_data (list): List of completion record dicts, each
+            expected to have "studentId" and "status" keys.
 
-# Iterate through each completion record in the completions_data
-for completion in completions_data:
-    # Get the student_id from the current completion record
-    student_id = completion.get("student_id")
+    Returns:
+        dict: Mapping of studentId -> count of completed assignments.
+    """
+    student_completed_assignments = {}
 
-    # Check if the student_id exists and if the assignment is marked as completed
-    if student_id and completion.get("completed"):
-        # Increment the count for the student_id. If the student_id is not yet in the dictionary,
-        # set its initial count to 1. Otherwise, increment its existing count.
-        student_completed_assignments[student_id] = student_completed_assignments.get(student_id, 0) + 1
+    for completion in completions_data:
+        # Get the studentId from the current completion record
+        student_id = completion.get("studentId")
+
+        # Check if the student_id exists and if the assignment status is "completed"
+        if student_id and completion.get("status") == "completed":
+            # Increment the count for the student_id. If the student_id is not yet in
+            # the dictionary, set its initial count to 1. Otherwise, increment it.
+            student_completed_assignments[student_id] = (
+                student_completed_assignments.get(student_id, 0) + 1
+            )
+
+    return student_completed_assignments
+
+
+if __name__ == "__main__":
+    # Load specific JSON files
+    students_data = load_json("students.json")
+    courses_data = load_json("courses.json")
+    assignments_data = load_json("assignments.json")
+    enrollments_data = load_json("enrollments.json")
+    completions_data = load_json("assignmentCompletions.json")
+
+    print(type(completions_data), len(completions_data))
+    print(completions_data[0])
+
+    student_completed_assignments = count_completed_assignments(completions_data)
+    print(student_completed_assignments)
