@@ -1,0 +1,14 @@
+[
+    {
+        "course_id": "C101",
+        "course_url": "https://peppimock.local/c101"
+    },
+    {
+        "course_id": "C102",
+        "course_url": "https://peppimock.local/c102"
+    },
+    {
+        "course_id": "C103",
+        "course_url": "https://peppimock.local/c103"
+    }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "course_id": "C101",
+    "teacher_name": "Dr. Smith",
+    "teacher_id": "T001",
+    "teacher_email": "smith@test.fi"
+  },
+  {
+    "course_id": "C102",
+    "teacher_name": "Prof. Johnson",
+    "teacher_id": "T002",
+    "teacher_email": "johnson@test.fi"
+  },
+  {
+    "course_id": "C103",
+    "teacher_name": "Dr. Brown",
+    "teacher_id": "T003",
+    "teacher_email": "brown@test.fi"
+  }
+]

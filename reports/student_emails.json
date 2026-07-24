@@ -1,0 +1,22 @@
+[
+    {
+        "to": "quinn.lee@example.com",
+        "subject": "Course activity reminder",
+        "body": "Dear Quinn Lee,\n\nThis is a reminder regarding your activity in the course 'Linear Algebra'. Our records indicate 0 assignments completed.\n\nTo help you get back on track, please visit the course page here: https://peppimock.local/c102\n\nIf you have any questions or need assistance, feel free to reach out to your teacher, Prof. Johnson.\n\nBest regards,\nYour OpenClaw Assistant"
+    },
+    {
+        "to": "rachel.scott@example.com",
+        "subject": "Course activity reminder",
+        "body": "Dear Rachel Scott,\n\nThis is a reminder regarding your activity in the course 'World History I'. Our records indicate 0 assignments completed.\n\nTo help you get back on track, please visit the course page here: https://peppimock.local/c103\n\nIf you have any questions or need assistance, feel free to reach out to your teacher, Dr. Brown.\n\nBest regards,\nYour OpenClaw Assistant"
+    },
+    {
+        "to": "sam.taylor@example.com",
+        "subject": "Course activity reminder",
+        "body": "Dear Sam Taylor,\n\nThis is a reminder regarding your activity in the course 'Introduction to Computer Science'. Our records indicate 0 assignments completed.\n\nTo help you get back on track, please visit the course page here: https://peppimock.local/c101\n\nIf you have any questions or need assistance, feel free to reach out to your teacher, Dr. Smith.\n\nBest regards,\nYour OpenClaw Assistant"
+    },
+    {
+        "to": "tina.hill@example.com",
+        "subject": "Course activity reminder",
+        "body": "Dear Tina Hill,\n\nThis is a reminder regarding your activity in the course 'Linear Algebra'. Our records indicate 0 assignments completed.\n\nTo help you get back on track, please visit the course page here: https://peppimock.local/c102\n\nIf you have any questions or need assistance, feel free to reach out to your teacher, Prof. Johnson.\n\nBest regards,\nYour OpenClaw Assistant"
+    }
+]

@@ -1,0 +1,10 @@
+Teacher Report:
+
+Course Name: Introduction to Computer Science
+Total Number of Students: 20
+
+Inactive Students:
+- Quinn Lee (0 assignments completed)
+- Rachel Scott (0 assignments completed)
+- Sam Taylor (0 assignments completed)
+- Tina Hill (0 assignments completed)

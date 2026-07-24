@@ -1,0 +1,364 @@
+[
+    {
+        "student_id": "S001",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 2,
+        "total_assignments": 5,
+        "progress_percentage": 40.0,
+        "last_activity_date": "2026-07-28",
+        "assignments_due": [
+            "CS101 - Lab 1: Variables and Data Types",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S002",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 2,
+        "total_assignments": 5,
+        "progress_percentage": 40.0,
+        "last_activity_date": "2026-07-31",
+        "assignments_due": [
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S003",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 2,
+        "total_assignments": 5,
+        "progress_percentage": 40.0,
+        "last_activity_date": "2026-07-30",
+        "assignments_due": [
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S004",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-06-29",
+        "assignments_due": [
+            "CS101 - Lab 1: Variables and Data Types",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S005",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-11",
+        "assignments_due": [
+            "LA102 - Homework 1: Vector Spaces",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S006",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-02",
+        "assignments_due": [
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S007",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-07",
+        "assignments_due": [
+            "CS101 - Project 1: Hello World",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S008",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-13",
+        "assignments_due": [
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S009",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-02",
+        "assignments_due": [
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S010",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-06-28",
+        "assignments_due": [
+            "CS101 - Lab 1: Variables and Data Types",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S011",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-11",
+        "assignments_due": [
+            "LA102 - Homework 1: Vector Spaces",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S012",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-09",
+        "assignments_due": [
+            "WH103 - Reading Assignment: Ancient Civilizations",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S013",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-09",
+        "assignments_due": [
+            "CS101 - Lab 1: Variables and Data Types",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S014",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-04",
+        "assignments_due": [
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S015",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-01",
+        "assignments_due": [
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S016",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-07",
+        "assignments_due": [
+            "CS101 - Project 1: Hello World",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S017",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 0,
+        "total_assignments": 5,
+        "progress_percentage": 0.0,
+        "last_activity_date": null,
+        "assignments_due": [
+            "LA102 - Homework 1: Vector Spaces",
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "No completed assignments"
+    },
+    {
+        "student_id": "S018",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 0,
+        "total_assignments": 5,
+        "progress_percentage": 0.0,
+        "last_activity_date": "2026-07-05",
+        "assignments_due": [
+            "WH103 - Reading Assignment: Ancient Civilizations",
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "No completed assignments"
+    },
+    {
+        "student_id": "S019",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 0,
+        "total_assignments": 5,
+        "progress_percentage": 0.0,
+        "last_activity_date": null,
+        "assignments_due": [
+            "CS101 - Project 1: Hello World",
+            "CS101 - Lab 1: Variables and Data Types",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "No completed assignments"
+    },
+    {
+        "student_id": "S020",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 0,
+        "total_assignments": 5,
+        "progress_percentage": 0.0,
+        "last_activity_date": "2026-07-13",
+        "assignments_due": [
+            "LA102 - Homework 1: Vector Spaces",
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "No completed assignments"
+    },
+    {
+        "student_id": "S001",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-04",
+        "assignments_due": [
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S002",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-02",
+        "assignments_due": [
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S004",
+        "course_id": "C102",
+        "course_name": "Linear Algebra",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-04",
+        "assignments_due": [
+            "LA102 - Quiz 1: Matrices",
+            "LA102 - Project 1: System of Equations"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S005",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-06-30",
+        "assignments_due": [
+            "CS101 - Lab 1: Variables and Data Types",
+            "CS101 - Homework 1: Conditional Statements",
+            "CS101 - Project 2: Simple Calculator"
+        ],
+        "status": "Behind schedule"
+    },
+    {
+        "student_id": "S007",
+        "course_id": "C103",
+        "course_name": "World History I",
+        "completed_assignments": 1,
+        "total_assignments": 5,
+        "progress_percentage": 20.0,
+        "last_activity_date": "2026-07-01",
+        "assignments_due": [
+            "WH103 - Essay 1: Roman Empire",
+            "WH103 - Presentation: Medieval Europe"
+        ],
+        "status": "Behind schedule"
+    }
+]
