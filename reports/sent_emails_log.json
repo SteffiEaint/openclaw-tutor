@@ -1,0 +1,198 @@
+[
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Keep Going in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586954",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586961",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586964",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586967",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586969",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586971",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586974",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586978",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586980",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586982",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586984",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586986",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586988",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586990",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586992",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586994",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586996",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.586998",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587005",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587007",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587009",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587011",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587013",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587015",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587017",
+        "email_type": "student_notification"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587019",
+        "email_type": "teacher_summary"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587023",
+        "email_type": "teacher_summary"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-02T18:28:02.587025",
+        "email_type": "teacher_summary"
+    }
+]

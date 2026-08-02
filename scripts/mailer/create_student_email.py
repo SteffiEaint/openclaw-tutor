@@ -1,71 +1,83 @@
 import json
 from pathlib import Path
 
-# Define file paths using pathlib for robust path handling
-# Paths are relative to the script's location (openclaw-tutor/scripts/mailer/)
-INPUT_REPORT_PATH = Path(__file__).resolve().parent.parent.parent / "reports" / "peppi_enriched_report.json"
-OUTPUT_EMAILS_PATH = Path(__file__).resolve().parent.parent.parent / "reports" / "student_emails.json"
+def generate_student_email_object(notification):
 
-def generate_student_emails():
-    """
-    Reads the enriched student report and generates individual email objects
-    for each inactive student.
-    """
-    # Load the enriched student report
-    try:
-        with open(INPUT_REPORT_PATH, 'r', encoding='utf-8') as f:
-            students_data = json.load(f)
-    except FileNotFoundError:
-        print(f"Error: Input file not found at {INPUT_REPORT_PATH}")
-        return
-    except json.JSONDecodeError:
-        print(f"Error: Could not decode JSON from {INPUT_REPORT_PATH}")
-        return
+    student_name = notification.get("student_name", "Student")
+    student_email = notification.get("recipient")
+    course_name = notification.get("course_name", "your course")
+    progress = notification.get("progress_percentage")
+    notification_type = notification.get("notification_type")
 
-    # List to store the generated email objects for students
-    student_emails = []
+    # Subject
+    if notification_type == "warning":
+        subject = f"Action Required: {course_name}"
 
-    # Iterate through each student in the report
-    for student in students_data:
-        student_email = student.get("student_email")
-        student_name = student.get("student_name", "Student")
-        course_name = student.get("course_name", "your course")
-        course_url = student.get("course_url", "the course page")
-        teacher_name = student.get("teacher_name", "Instructor")
-        status = student.get("status", "0 activity")
+    elif notification_type == "reminder":
+        subject = f"Reminder: {course_name}"
 
-        # Only generate an email if a valid student email is available
-        if student_email:
-            # Construct the email body
-            email_body = (
-                f"Dear {student_name},\n\n"
-                f"This is a reminder regarding your activity in the course '{course_name}'. "
-                f"Our records indicate {status}.\n\n"
-                "To help you get back on track, please visit the course page here: "
-                f"{course_url}\n\n"
-                f"If you have any questions or need assistance, feel free to reach out to "
-                f"your teacher, {teacher_name}.\n\n"
-                "Best regards,\nYour OpenClaw Assistant"
-            )
+    elif notification_type == "encouragement":
+        subject = f"Keep Going in {course_name}"
 
-            # Create the email object
-            email_object = {
-                "to": student_email,
-                "subject": "Course activity reminder",
-                "body": email_body
-            }
-            student_emails.append(email_object)
+    elif notification_type == "motivation":
+        subject = f"Great Progress in {course_name}"
 
-    # Ensure the output directory exists
-    OUTPUT_EMAILS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    elif notification_type == "congratulations":
+        subject = f"Congratulations on Completing {course_name}"
 
-    # Save the generated email objects to a JSON file
-    try:
-        with open(OUTPUT_EMAILS_PATH, 'w', encoding='utf-8') as f:
-            json.dump(student_emails, f, indent=4)
-        print(f"Student emails successfully generated and saved to {OUTPUT_EMAILS_PATH}")
-    except IOError as e:
-        print(f"Error: Could not write output file to {OUTPUT_EMAILS_PATH}. {e}")
+    else:
+        subject = f"Update for {course_name}"
 
-if __name__ == "__main__":
-    generate_student_emails()
+    # Body
+    body = f"Dear {student_name},\n\n"
+
+    if notification_type == "warning":
+        body += (
+            f"Our records show that you currently have "
+            f"{progress}% progress in {course_name}.\n\n"
+            "Please begin working on your assignments as soon as possible "
+            "to avoid falling behind."
+        )
+
+    elif notification_type == "reminder":
+        body += (
+            f"You currently have {progress}% progress in "
+            f"{course_name}.\n\n"
+            "Please remember to complete your remaining assignments."
+        )
+
+    elif notification_type == "encouragement":
+        body += (
+            f"Great work! You currently have "
+            f"{progress}% progress in {course_name}.\n\n"
+            "Keep up the good work."
+        )
+
+    elif notification_type == "motivation":
+        body += (
+            f"You currently have {progress}% progress in "
+            f"{course_name}.\n\n"
+            "You're almost there! Keep going."
+        )
+
+    elif notification_type == "congratulations":
+        body += (
+            f"Congratulations!\n\n"
+            f"You have successfully completed "
+            f"{course_name} with {progress}% progress."
+        )
+
+    else:
+        body += (
+            f"This is an update regarding "
+            f"{course_name}."
+        )
+
+    body += "\n\nBest regards,\nOpenClaw Tutor"
+
+    return {
+        "to": student_email,
+        "subject": subject,
+        "body": body,
+        "type": "student_notification"
+    }

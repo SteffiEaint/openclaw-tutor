@@ -61,9 +61,11 @@ for student_entry in student_progress_report:
 
     # Create a new dictionary to avoid modifying the original student_entry directly
     enriched_student_entry = student_entry.copy()
+    enriched_student_entry["student_name"] = peppi_data.get("name") # Overwrite with name from Peppi mock data
     enriched_student_entry["student_email"] = peppi_data.get("email")
     enriched_student_entry["teacher_name"] = course_data.get("teacher_name")
     enriched_student_entry["teacher_email"] = course_data.get("teacher_email")
+    enriched_student_entry["course_name"] = course_data.get("course_name")
     enriched_student_entry["course_url"] = course_data.get("course_url")
     
     enriched.append(enriched_student_entry)

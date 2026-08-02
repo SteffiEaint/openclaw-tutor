@@ -1,0 +1,16 @@
+{
+    "modules": {
+        "moodle": true,
+        "peppi": true,
+        "notifications": true,
+        "mailer": true
+    },
+
+    "dry_run": false,
+
+    "scheduler": {
+        "mode": "interval",
+        "interval": 30,
+        "unit": "seconds"
+    }
+}

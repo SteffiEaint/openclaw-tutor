@@ -1,0 +1,26 @@
+[
+  {
+    "id": "trigger_001",
+    "type": "scheduled",
+    "description": "Daily notification run",
+    "simulate_condition": "always_true"
+  },
+  {
+    "id": "trigger_002",
+    "type": "progress",
+    "description": "Run on progress updates",
+    "simulate_condition": "progress_updated"
+  },
+  {
+    "id": "trigger_003",
+    "type": "manual",
+    "description": "Manual trigger example",
+    "simulate_condition": "manual_action"
+  },
+  {
+    "id": "trigger_004",
+    "type": "new_assignment",
+    "description": "Trigger on new assignment creation",
+    "simulate_condition": "new_assignment_posted"
+  }
+]

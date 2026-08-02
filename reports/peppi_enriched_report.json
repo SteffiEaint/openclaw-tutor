@@ -13,6 +13,7 @@
             "CS101 - Project 2: Simple Calculator"
         ],
         "status": "Behind schedule",
+        "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -28,9 +29,11 @@
         "last_activity_date": "2026-07-31",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Bob Johnson",
         "student_email": "bob.johnson@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -46,9 +49,11 @@
         "last_activity_date": "2026-07-30",
         "assignments_due": [
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art"
         ],
         "status": "Behind schedule",
+        "student_name": "Charlie Brown",
         "student_email": "charlie.brown@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -65,9 +70,11 @@
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "Behind schedule",
+        "student_name": "Diana Prince",
         "student_email": "diana.prince@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -83,9 +90,11 @@
         "last_activity_date": "2026-07-11",
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Eve Adams",
         "student_email": "eve.adams@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -101,9 +110,12 @@
         "last_activity_date": "2026-07-02",
         "assignments_due": [
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "Behind schedule",
+        "student_name": "Frank White",
         "student_email": "frank.white@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -120,9 +132,11 @@
         "assignments_due": [
             "CS101 - Project 1: Hello World",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "Behind schedule",
+        "student_name": "Grace Kelly",
         "student_email": "grace.kelly@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -138,9 +152,11 @@
         "last_activity_date": "2026-07-13",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Henry Moore",
         "student_email": "henry.moore@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -156,9 +172,12 @@
         "last_activity_date": "2026-07-02",
         "assignments_due": [
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "Behind schedule",
+        "student_name": "Ivy Green",
         "student_email": "ivy.green@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -175,9 +194,11 @@
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "Behind schedule",
+        "student_name": "Jack Black",
         "student_email": "jack.black@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -193,9 +214,11 @@
         "last_activity_date": "2026-07-11",
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Karen Red",
         "student_email": "karen.red@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -211,9 +234,12 @@
         "last_activity_date": "2026-07-09",
         "assignments_due": [
             "WH103 - Reading Assignment: Ancient Civilizations",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "Behind schedule",
+        "student_name": "Leo Blue",
         "student_email": "leo.blue@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -230,9 +256,11 @@
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "Behind schedule",
+        "student_name": "Mia Wong",
         "student_email": "mia.wong@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -248,9 +276,11 @@
         "last_activity_date": "2026-07-04",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Noah Davis",
         "student_email": "noah.davis@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -266,9 +296,12 @@
         "last_activity_date": "2026-07-01",
         "assignments_due": [
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "Behind schedule",
+        "student_name": "Olivia Hall",
         "student_email": "olivia.hall@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -285,9 +318,11 @@
         "assignments_due": [
             "CS101 - Project 1: Hello World",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "Behind schedule",
+        "student_name": "Peter King",
         "student_email": "peter.king@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -304,9 +339,11 @@
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "No completed assignments",
+        "student_name": "Quinn Lee",
         "student_email": "quinn.lee@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -323,9 +360,12 @@
         "assignments_due": [
             "WH103 - Reading Assignment: Ancient Civilizations",
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "No completed assignments",
+        "student_name": "Rachel Scott",
         "student_email": "rachel.scott@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -343,9 +383,11 @@
             "CS101 - Project 1: Hello World",
             "CS101 - Lab 1: Variables and Data Types",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "No completed assignments",
+        "student_name": "Sam Taylor",
         "student_email": "sam.taylor@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -362,9 +404,11 @@
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "No completed assignments",
+        "student_name": "Tina Hill",
         "student_email": "tina.hill@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -380,9 +424,11 @@
         "last_activity_date": "2026-07-04",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -398,9 +444,12 @@
         "last_activity_date": "2026-07-02",
         "assignments_due": [
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "Behind schedule",
+        "student_name": "Bob Johnson",
         "student_email": "bob.johnson@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
@@ -416,9 +465,11 @@
         "last_activity_date": "2026-07-04",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
-            "LA102 - Project 1: System of Equations"
+            "LA102 - Project 1: System of Equations",
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
         ],
         "status": "Behind schedule",
+        "student_name": "Diana Prince",
         "student_email": "diana.prince@example.com",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
@@ -435,9 +486,11 @@
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
             "CS101 - Homework 1: Conditional Statements",
-            "CS101 - Project 2: Simple Calculator"
+            "CS101 - Project 2: Simple Calculator",
+            "CS101 - Quiz 1"
         ],
         "status": "Behind schedule",
+        "student_name": "Eve Adams",
         "student_email": "eve.adams@example.com",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
@@ -453,9 +506,12 @@
         "last_activity_date": "2026-07-01",
         "assignments_due": [
             "WH103 - Essay 1: Roman Empire",
-            "WH103 - Presentation: Medieval Europe"
+            "WH103 - Presentation: Medieval Europe",
+            "WH103 - Research Paper: Renaissance Art",
+            "WH103 - Final Exam"
         ],
         "status": "Behind schedule",
+        "student_name": "Grace Kelly",
         "student_email": "grace.kelly@example.com",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
