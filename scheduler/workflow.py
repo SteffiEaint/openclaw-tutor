@@ -21,24 +21,35 @@ def run_full_workflow():
     config = load_config()
     modules = config["modules"]
 
+    # Moodle processing
     if modules["moodle"]:
         run_script(
             BASE_DIR /
             "scripts/moodle/generate_student_progress_report.py"
         )
 
+    # Peppi enrichment
     if modules["peppi"]:
         run_script(
             BASE_DIR /
             "scripts/peppi/enrich_with_peppi.py"
         )
 
+    # Event detection
+    if modules.get("events", True):
+        run_script(
+            BASE_DIR /
+            "scripts/events/event_engine.py"
+        )
+
+    # Notification generation
     if modules["notifications"]:
         run_script(
             BASE_DIR /
             "scripts/notification/notification_engine.py"
         )
 
+    # Email generation and sending
     if modules["mailer"]:
 
         run_script(
@@ -46,13 +57,14 @@ def run_full_workflow():
             "scripts/mailer/generate_all_emails.py"
         )
 
-        if not config["dry_run"]:
+        if config["dry_run"]:
+            print("\nDry run enabled. Emails were generated only.")
+
+        else:
             run_script(
                 BASE_DIR /
                 "scripts/mailer/smtp_sender.py"
             )
-        else:
-            print("Dry run enabled. Emails were generated only.")
 
 
 if __name__ == "__main__":

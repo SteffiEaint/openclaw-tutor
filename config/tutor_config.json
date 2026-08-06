@@ -2,6 +2,7 @@
     "modules": {
         "moodle": true,
         "peppi": true,
+        "events": true,
         "notifications": true,
         "mailer": true
     },

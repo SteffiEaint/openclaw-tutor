@@ -103,5 +103,12 @@
         "title": "WH103 - Final Exam",
         "description": "Comprehensive final exam covering all course material.",
         "dueDate": "2026-07-31T23:59:59Z"
+    },
+    {
+      "assignmentId": "A016",
+      "courseId": "C102",
+      "title": "LA102 - Final Project: Linear Transformations",
+      "description": "Create a project demonstrating linear transformations in 2D and 3D space.",
+      "dueDate": "2026-08-09T23:59:59Z"
     }
 ]
