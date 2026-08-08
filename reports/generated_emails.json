@@ -2,14 +2,14 @@
     "student_emails": [
         {
             "to": "alice.smith@example.com",
-            "subject": "Keep Going in Introduction to Computer Science",
-            "body": "Dear Alice Smith,\n\nGreat work! You have reached 40.0% progress in Introduction to Computer Science.\n\nKeep up the good work!\n\nBest regards,\nOpenClaw Tutor",
+            "subject": "Reminder: Introduction to Computer Science",
+            "body": "Dear Alice Smith,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "bob.johnson@example.com",
             "subject": "Keep Going in Linear Algebra",
-            "body": "Dear Bob Johnson,\n\nGreat work! You have reached 40.0% progress in Linear Algebra.\n\nKeep up the good work!\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Bob Johnson,\n\nGreat work! You have reached 33.33% progress in Linear Algebra.\n\nKeep up the good work!\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -21,13 +21,13 @@
         {
             "to": "diana.prince@example.com",
             "subject": "Reminder: Introduction to Computer Science",
-            "body": "Dear Diana Prince,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Diana Prince,\n\nYou currently have 10.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "eve.adams@example.com",
             "subject": "Reminder: Linear Algebra",
-            "body": "Dear Eve Adams,\n\nYou currently have 20.0% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Eve Adams,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -39,13 +39,13 @@
         {
             "to": "grace.kelly@example.com",
             "subject": "Reminder: Introduction to Computer Science",
-            "body": "Dear Grace Kelly,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Grace Kelly,\n\nYou currently have 10.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "henry.moore@example.com",
             "subject": "Reminder: Linear Algebra",
-            "body": "Dear Henry Moore,\n\nYou currently have 20.0% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Henry Moore,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -57,13 +57,13 @@
         {
             "to": "jack.black@example.com",
             "subject": "Reminder: Introduction to Computer Science",
-            "body": "Dear Jack Black,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Jack Black,\n\nYou currently have 10.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "karen.red@example.com",
             "subject": "Reminder: Linear Algebra",
-            "body": "Dear Karen Red,\n\nYou currently have 20.0% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Karen Red,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -75,13 +75,13 @@
         {
             "to": "mia.wong@example.com",
             "subject": "Reminder: Introduction to Computer Science",
-            "body": "Dear Mia Wong,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Mia Wong,\n\nYou currently have 10.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "noah.davis@example.com",
             "subject": "Reminder: Linear Algebra",
-            "body": "Dear Noah Davis,\n\nYou currently have 20.0% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Noah Davis,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -93,7 +93,7 @@
         {
             "to": "peter.king@example.com",
             "subject": "Reminder: Introduction to Computer Science",
-            "body": "Dear Peter King,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Peter King,\n\nYou currently have 10.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -123,7 +123,7 @@
         {
             "to": "alice.smith@example.com",
             "subject": "Reminder: Linear Algebra",
-            "body": "Dear Alice Smith,\n\nYou currently have 20.0% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Alice Smith,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -135,13 +135,13 @@
         {
             "to": "diana.prince@example.com",
             "subject": "Reminder: Linear Algebra",
-            "body": "Dear Diana Prince,\n\nYou currently have 20.0% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Diana Prince,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "eve.adams@example.com",
             "subject": "Reminder: Introduction to Computer Science",
-            "body": "Dear Eve Adams,\n\nYou currently have 20.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
+            "body": "Dear Eve Adams,\n\nYou currently have 10.0% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
@@ -151,57 +151,249 @@
             "type": "student_notification"
         },
         {
-            "to": "bob.johnson@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Bob Johnson,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "eve.adams@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Eve Adams,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "henry.moore@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Henry Moore,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "karen.red@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Karen Red,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "noah.davis@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Noah Davis,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "quinn.lee@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Quinn Lee,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "tina.hill@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Tina Hill,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
             "to": "alice.smith@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Alice Smith,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Alice Smith,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         },
         {
             "to": "diana.prince@example.com",
-            "subject": "New Assignment in Linear Algebra",
-            "body": "Dear Diana Prince,\n\nA new assignment has been published for Linear Algebra.\n\nAssignment: LA102 - Final Project: Linear Transformations\nDue date: 2026-08-09T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Diana Prince,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "grace.kelly@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Grace Kelly,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "jack.black@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Jack Black,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "mia.wong@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Mia Wong,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "peter.king@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Peter King,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "sam.taylor@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Sam Taylor,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "eve.adams@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Eve Adams,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "alice.smith@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Alice Smith,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "diana.prince@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Diana Prince,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "grace.kelly@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Grace Kelly,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "jack.black@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Jack Black,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "mia.wong@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Mia Wong,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "peter.king@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Peter King,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "sam.taylor@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Sam Taylor,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "eve.adams@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Eve Adams,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "alice.smith@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Alice Smith,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "diana.prince@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Diana Prince,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "grace.kelly@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Grace Kelly,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "jack.black@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Jack Black,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "mia.wong@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Mia Wong,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "peter.king@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Peter King,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "sam.taylor@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Sam Taylor,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "eve.adams@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Eve Adams,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "alice.smith@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Alice Smith,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "diana.prince@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Diana Prince,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "grace.kelly@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Grace Kelly,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "jack.black@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Jack Black,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "mia.wong@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Mia Wong,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "peter.king@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Peter King,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "sam.taylor@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Sam Taylor,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "eve.adams@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Eve Adams,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "alice.smith@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Alice Smith,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "diana.prince@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Diana Prince,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "grace.kelly@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Grace Kelly,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "jack.black@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Jack Black,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "mia.wong@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Mia Wong,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "peter.king@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Peter King,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "sam.taylor@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Sam Taylor,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "eve.adams@example.com",
+            "subject": "New Assignment in Introduction to Computer Science",
+            "body": "Dear Eve Adams,\n\nA new assignment has been published for Introduction to Computer Science.\n\nAssignment: Playwright Test Assignment\nDue date: 2030-12-31T23:59:59Z\n\nPlease remember to complete it before the deadline.\n\nBest regards,\nOpenClaw Tutor",
+            "type": "student_notification"
+        },
+        {
+            "to": "alice.smith@example.com",
+            "subject": "Late Submission: CS101 - Homework 1: Conditional Statements",
+            "body": "Dear Alice Smith,\n\nYour submission for 'CS101 - Homework 1: Conditional Statements' was received after the deadline.\n\nThe submission has been marked as late.\n\nBest regards,\nOpenClaw Tutor",
             "type": "student_notification"
         }
     ],

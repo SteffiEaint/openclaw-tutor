@@ -6,7 +6,7 @@
         "recipient_type": "student",
         "recipient": "alice.smith@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844086",
+        "timestamp": "2026-08-08T19:58:18.784157",
         "student_id": "S001",
         "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
@@ -15,7 +15,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 40.0
+        "progress_percentage": 33.33
     },
     {
         "action": "send_email",
@@ -24,7 +24,7 @@
         "recipient_type": "student",
         "recipient": "bob.johnson@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844092",
+        "timestamp": "2026-08-08T19:58:18.784169",
         "student_id": "S002",
         "student_name": "Bob Johnson",
         "student_email": "bob.johnson@example.com",
@@ -33,7 +33,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 40.0
+        "progress_percentage": 33.33
     },
     {
         "action": "send_email",
@@ -42,7 +42,7 @@
         "recipient_type": "student",
         "recipient": "charlie.brown@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844095",
+        "timestamp": "2026-08-08T19:58:18.784171",
         "student_id": "S003",
         "student_name": "Charlie Brown",
         "student_email": "charlie.brown@example.com",
@@ -51,7 +51,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 40.0
+        "progress_percentage": 40
     },
     {
         "action": "send_email",
@@ -60,7 +60,7 @@
         "recipient_type": "student",
         "recipient": "diana.prince@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844096",
+        "timestamp": "2026-08-08T19:58:18.784173",
         "student_id": "S004",
         "student_name": "Diana Prince",
         "student_email": "diana.prince@example.com",
@@ -69,7 +69,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 20.0
+        "progress_percentage": 11.11
     },
     {
         "action": "send_email",
@@ -78,7 +78,7 @@
         "recipient_type": "student",
         "recipient": "eve.adams@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844098",
+        "timestamp": "2026-08-08T19:58:18.784175",
         "student_id": "S005",
         "student_name": "Eve Adams",
         "student_email": "eve.adams@example.com",
@@ -87,7 +87,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 20.0
+        "progress_percentage": 16.67
     },
     {
         "action": "send_email",
@@ -96,7 +96,7 @@
         "recipient_type": "student",
         "recipient": "frank.white@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844099",
+        "timestamp": "2026-08-08T19:58:18.784176",
         "student_id": "S006",
         "student_name": "Frank White",
         "student_email": "frank.white@example.com",
@@ -105,7 +105,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20.0
+        "progress_percentage": 20
     },
     {
         "action": "send_email",
@@ -114,7 +114,7 @@
         "recipient_type": "student",
         "recipient": "grace.kelly@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844101",
+        "timestamp": "2026-08-08T19:58:18.784177",
         "student_id": "S007",
         "student_name": "Grace Kelly",
         "student_email": "grace.kelly@example.com",
@@ -123,7 +123,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 20.0
+        "progress_percentage": 11.11
     },
     {
         "action": "send_email",
@@ -132,7 +132,7 @@
         "recipient_type": "student",
         "recipient": "henry.moore@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844102",
+        "timestamp": "2026-08-08T19:58:18.784184",
         "student_id": "S008",
         "student_name": "Henry Moore",
         "student_email": "henry.moore@example.com",
@@ -141,7 +141,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 20.0
+        "progress_percentage": 16.67
     },
     {
         "action": "send_email",
@@ -150,7 +150,7 @@
         "recipient_type": "student",
         "recipient": "ivy.green@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844103",
+        "timestamp": "2026-08-08T19:58:18.784186",
         "student_id": "S009",
         "student_name": "Ivy Green",
         "student_email": "ivy.green@example.com",
@@ -159,7 +159,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20.0
+        "progress_percentage": 20
     },
     {
         "action": "send_email",
@@ -168,7 +168,7 @@
         "recipient_type": "student",
         "recipient": "jack.black@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844105",
+        "timestamp": "2026-08-08T19:58:18.784188",
         "student_id": "S010",
         "student_name": "Jack Black",
         "student_email": "jack.black@example.com",
@@ -177,7 +177,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 20.0
+        "progress_percentage": 11.11
     },
     {
         "action": "send_email",
@@ -186,7 +186,7 @@
         "recipient_type": "student",
         "recipient": "karen.red@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844106",
+        "timestamp": "2026-08-08T19:58:18.784190",
         "student_id": "S011",
         "student_name": "Karen Red",
         "student_email": "karen.red@example.com",
@@ -195,7 +195,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 20.0
+        "progress_percentage": 16.67
     },
     {
         "action": "send_email",
@@ -204,7 +204,7 @@
         "recipient_type": "student",
         "recipient": "leo.blue@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844107",
+        "timestamp": "2026-08-08T19:58:18.784191",
         "student_id": "S012",
         "student_name": "Leo Blue",
         "student_email": "leo.blue@example.com",
@@ -213,7 +213,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20.0
+        "progress_percentage": 20
     },
     {
         "action": "send_email",
@@ -222,7 +222,7 @@
         "recipient_type": "student",
         "recipient": "mia.wong@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844109",
+        "timestamp": "2026-08-08T19:58:18.784192",
         "student_id": "S013",
         "student_name": "Mia Wong",
         "student_email": "mia.wong@example.com",
@@ -231,7 +231,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 20.0
+        "progress_percentage": 11.11
     },
     {
         "action": "send_email",
@@ -240,7 +240,7 @@
         "recipient_type": "student",
         "recipient": "noah.davis@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844110",
+        "timestamp": "2026-08-08T19:58:18.784193",
         "student_id": "S014",
         "student_name": "Noah Davis",
         "student_email": "noah.davis@example.com",
@@ -249,7 +249,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 20.0
+        "progress_percentage": 16.67
     },
     {
         "action": "send_email",
@@ -258,7 +258,7 @@
         "recipient_type": "student",
         "recipient": "olivia.hall@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844111",
+        "timestamp": "2026-08-08T19:58:18.784195",
         "student_id": "S015",
         "student_name": "Olivia Hall",
         "student_email": "olivia.hall@example.com",
@@ -267,7 +267,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20.0
+        "progress_percentage": 20
     },
     {
         "action": "send_email",
@@ -276,7 +276,7 @@
         "recipient_type": "student",
         "recipient": "peter.king@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844112",
+        "timestamp": "2026-08-08T19:58:18.784196",
         "student_id": "S016",
         "student_name": "Peter King",
         "student_email": "peter.king@example.com",
@@ -285,7 +285,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 20.0
+        "progress_percentage": 11.11
     },
     {
         "action": "send_email",
@@ -294,7 +294,7 @@
         "recipient_type": "student",
         "recipient": "quinn.lee@example.com",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844115",
+        "timestamp": "2026-08-08T19:58:18.784199",
         "student_id": "S017",
         "student_name": "Quinn Lee",
         "student_email": "quinn.lee@example.com",
@@ -303,7 +303,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 0.0
+        "progress_percentage": 0
     },
     {
         "action": "send_email",
@@ -312,7 +312,7 @@
         "recipient_type": "student",
         "recipient": "rachel.scott@example.com",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844117",
+        "timestamp": "2026-08-08T19:58:18.784201",
         "student_id": "S018",
         "student_name": "Rachel Scott",
         "student_email": "rachel.scott@example.com",
@@ -321,7 +321,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 0.0
+        "progress_percentage": 0
     },
     {
         "action": "send_email",
@@ -330,7 +330,7 @@
         "recipient_type": "student",
         "recipient": "sam.taylor@example.com",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844119",
+        "timestamp": "2026-08-08T19:58:18.784213",
         "student_id": "S019",
         "student_name": "Sam Taylor",
         "student_email": "sam.taylor@example.com",
@@ -339,7 +339,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 0.0
+        "progress_percentage": 0
     },
     {
         "action": "send_email",
@@ -348,7 +348,7 @@
         "recipient_type": "student",
         "recipient": "tina.hill@example.com",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844121",
+        "timestamp": "2026-08-08T19:58:18.784218",
         "student_id": "S020",
         "student_name": "Tina Hill",
         "student_email": "tina.hill@example.com",
@@ -357,7 +357,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 0.0
+        "progress_percentage": 0
     },
     {
         "action": "send_email",
@@ -366,7 +366,7 @@
         "recipient_type": "student",
         "recipient": "alice.smith@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844123",
+        "timestamp": "2026-08-08T19:58:18.784220",
         "student_id": "S001",
         "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
@@ -375,7 +375,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 20.0
+        "progress_percentage": 16.67
     },
     {
         "action": "send_email",
@@ -384,7 +384,7 @@
         "recipient_type": "student",
         "recipient": "bob.johnson@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844124",
+        "timestamp": "2026-08-08T19:58:18.784221",
         "student_id": "S002",
         "student_name": "Bob Johnson",
         "student_email": "bob.johnson@example.com",
@@ -393,7 +393,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20.0
+        "progress_percentage": 20
     },
     {
         "action": "send_email",
@@ -402,7 +402,7 @@
         "recipient_type": "student",
         "recipient": "diana.prince@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844125",
+        "timestamp": "2026-08-08T19:58:18.784223",
         "student_id": "S004",
         "student_name": "Diana Prince",
         "student_email": "diana.prince@example.com",
@@ -411,7 +411,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 20.0
+        "progress_percentage": 16.67
     },
     {
         "action": "send_email",
@@ -420,7 +420,7 @@
         "recipient_type": "student",
         "recipient": "eve.adams@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844127",
+        "timestamp": "2026-08-08T19:58:18.784224",
         "student_id": "S005",
         "student_name": "Eve Adams",
         "student_email": "eve.adams@example.com",
@@ -429,7 +429,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 20.0
+        "progress_percentage": 11.11
     },
     {
         "action": "send_email",
@@ -438,7 +438,7 @@
         "recipient_type": "student",
         "recipient": "grace.kelly@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.844128",
+        "timestamp": "2026-08-08T19:58:18.784226",
         "student_id": "S007",
         "student_name": "Grace Kelly",
         "student_email": "grace.kelly@example.com",
@@ -447,7 +447,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20.0
+        "progress_percentage": 20
     },
     {
         "action": "send_email",
@@ -456,7 +456,7 @@
         "recipient_type": "teacher",
         "recipient": "johnson@test.fi",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844129",
+        "timestamp": "2026-08-08T19:58:18.784228",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
         "students": [
@@ -466,7 +466,7 @@
                 "student_email": "quinn.lee@example.com",
                 "course_name": "Linear Algebra",
                 "course_url": "https://peppimock.local/c102",
-                "progress_percentage": 0.0
+                "progress_percentage": 0
             },
             {
                 "student_id": "S020",
@@ -474,7 +474,7 @@
                 "student_email": "tina.hill@example.com",
                 "course_name": "Linear Algebra",
                 "course_url": "https://peppimock.local/c102",
-                "progress_percentage": 0.0
+                "progress_percentage": 0
             }
         ]
     },
@@ -485,7 +485,7 @@
         "recipient_type": "teacher",
         "recipient": "brown@test.fi",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844131",
+        "timestamp": "2026-08-08T19:58:18.784229",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
         "students": [
@@ -495,7 +495,7 @@
                 "student_email": "rachel.scott@example.com",
                 "course_name": "World History I",
                 "course_url": "https://peppimock.local/c103",
-                "progress_percentage": 0.0
+                "progress_percentage": 0
             }
         ]
     },
@@ -506,7 +506,7 @@
         "recipient_type": "teacher",
         "recipient": "smith@test.fi",
         "priority": "high",
-        "timestamp": "2026-08-05T17:52:28.844132",
+        "timestamp": "2026-08-08T19:58:18.784230",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
         "students": [
@@ -516,161 +516,23 @@
                 "student_email": "sam.taylor@example.com",
                 "course_name": "Introduction to Computer Science",
                 "course_url": "https://peppimock.local/c101",
-                "progress_percentage": 0.0
+                "progress_percentage": 0
             }
         ]
     },
     {
         "action": "send_email",
         "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "bob.johnson@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845039",
-        "student_id": "S002",
-        "student_name": "Bob Johnson",
-        "student_email": "bob.johnson@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "eve.adams@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845046",
-        "student_id": "S005",
-        "student_name": "Eve Adams",
-        "student_email": "eve.adams@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "henry.moore@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845049",
-        "student_id": "S008",
-        "student_name": "Henry Moore",
-        "student_email": "henry.moore@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "karen.red@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845051",
-        "student_id": "S011",
-        "student_name": "Karen Red",
-        "student_email": "karen.red@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "noah.davis@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845052",
-        "student_id": "S014",
-        "student_name": "Noah Davis",
-        "student_email": "noah.davis@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "quinn.lee@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845054",
-        "student_id": "S017",
-        "student_name": "Quinn Lee",
-        "student_email": "quinn.lee@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "tina.hill@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845055",
-        "student_id": "S020",
-        "student_name": "Tina Hill",
-        "student_email": "tina.hill@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
+        "notification_type": "assignment_completed",
         "recipient_type": "student",
         "recipient": "alice.smith@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845056",
+        "priority": "low",
+        "timestamp": "2026-08-08T16:58:18.743311+00:00",
         "student_id": "S001",
         "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
-    },
-    {
-        "action": "send_email",
-        "trigger": "event",
-        "notification_type": "new_assignment",
-        "recipient_type": "student",
-        "recipient": "diana.prince@example.com",
-        "priority": "medium",
-        "timestamp": "2026-08-05T17:52:28.845057",
-        "student_id": "S004",
-        "student_name": "Diana Prince",
-        "student_email": "diana.prince@example.com",
-        "course_id": "C102",
-        "course_name": "Linear Algebra",
-        "assignmentId": "A016",
-        "title": "LA102 - Final Project: Linear Transformations",
-        "dueDate": "2026-08-09T23:59:59Z"
+        "event": "assignment_completed",
+        "studentId": "S001",
+        "assignmentId": "A003"
     }
 ]

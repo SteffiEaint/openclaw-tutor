@@ -1,5 +1,6 @@
 import json
 import subprocess
+import sys
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -13,57 +14,48 @@ def load_config():
 
 def run_script(script):
     print(f"\nRunning {script.name}")
-    subprocess.run(["python", str(script)], check=True)
+
+    subprocess.run(
+        [sys.executable, str(script)],
+        cwd=BASE_DIR,
+        check=True
+    )
 
 
 def run_full_workflow():
-
     config = load_config()
     modules = config["modules"]
 
-    # Moodle processing
-    if modules["moodle"]:
+    if modules.get("moodle", False):
         run_script(
-            BASE_DIR /
-            "scripts/moodle/generate_student_progress_report.py"
+            BASE_DIR / "scripts/moodle/generate_student_progress_report.py"
         )
 
-    # Peppi enrichment
-    if modules["peppi"]:
+    if modules.get("peppi", False):
         run_script(
-            BASE_DIR /
-            "scripts/peppi/enrich_with_peppi.py"
+            BASE_DIR / "scripts/peppi/enrich_with_peppi.py"
         )
 
-    # Event detection
-    if modules.get("events", True):
+    if modules.get("events", False):
         run_script(
-            BASE_DIR /
-            "scripts/events/event_engine.py"
+            BASE_DIR / "scripts/events/event_engine.py"
         )
 
-    # Notification generation
-    if modules["notifications"]:
+    if modules.get("notifications", False):
         run_script(
-            BASE_DIR /
-            "scripts/notification/notification_engine.py"
+            BASE_DIR / "scripts/notification/notification_engine.py"
         )
 
-    # Email generation and sending
-    if modules["mailer"]:
-
+    if modules.get("mailer", False):
         run_script(
-            BASE_DIR /
-            "scripts/mailer/generate_all_emails.py"
+            BASE_DIR / "scripts/mailer/generate_all_emails.py"
         )
 
-        if config["dry_run"]:
+        if config.get("dry_run", True):
             print("\nDry run enabled. Emails were generated only.")
-
         else:
             run_script(
-                BASE_DIR /
-                "scripts/mailer/smtp_sender.py"
+                BASE_DIR / "scripts/mailer/smtp_sender.py"
             )
 
 

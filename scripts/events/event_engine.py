@@ -1,6 +1,6 @@
 import json
-from pathlib import Path
 from datetime import datetime, timezone
+from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
@@ -12,6 +12,7 @@ ASSIGNMENT_SNAPSHOT_PATH = BASE_DIR / "events" / "assignment_snapshot.json"
 COMPLETION_SNAPSHOT_PATH = BASE_DIR / "events" / "completion_snapshot.json"
 EVENTS_PATH = BASE_DIR / "events" / "events.json"
 
+
 def load_json(path):
     if not path.exists():
         return []
@@ -19,21 +20,24 @@ def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+
 def save_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
 
+
 def now():
     return datetime.now(timezone.utc)
+
 
 def parse_date(date_string):
     return datetime.fromisoformat(
         date_string.replace("Z", "+00:00")
     )
 
-# Detect newly published assignments
+
 def detect_new_assignments(events):
     assignments = load_json(ASSIGNMENTS_PATH)
     snapshot = load_json(ASSIGNMENT_SNAPSHOT_PATH)
@@ -53,51 +57,48 @@ def detect_new_assignments(events):
                 "title": assignment["title"],
                 "dueDate": assignment["dueDate"]
             })
+
     save_json(ASSIGNMENT_SNAPSHOT_PATH, assignments)
 
-# Create completion records automatically
+
 def create_missing_completion_records(events):
     assignments = load_json(ASSIGNMENTS_PATH)
     enrollments = load_json(ENROLLMENTS_PATH)
     completions = load_json(COMPLETIONS_PATH)
 
     existing = {
-        (c["studentId"], c["assignmentId"])
-        for c in completions
+        (completion["studentId"], completion["assignmentId"])
+        for completion in completions
     }
 
     assignments_by_course = {}
 
     for assignment in assignments:
         assignments_by_course.setdefault(
-            assignment["courseId"],
-            []
+            assignment["courseId"], []
         ).append(assignment)
 
     next_id = 1
 
     if completions:
-        next_id = (
-            max(
-                int(c["completionId"].replace("CM", ""))
-                for c in completions
-            )
-            + 1
-        )
+        next_id = max(
+            int(completion["completionId"].replace("CM", ""))
+            for completion in completions
+        ) + 1
 
     for enrollment in enrollments:
-        student = enrollment["studentId"]
-        course = enrollment["courseId"]
+        student_id = enrollment["studentId"]
+        course_id = enrollment["courseId"]
 
-        for assignment in assignments_by_course.get(course, []):
-            key = (student, assignment["assignmentId"])
+        for assignment in assignments_by_course.get(course_id, []):
+            key = (student_id, assignment["assignmentId"])
 
             if key in existing:
                 continue
 
             completions.append({
                 "completionId": f"CM{next_id:03d}",
-                "studentId": student,
+                "studentId": student_id,
                 "assignmentId": assignment["assignmentId"],
                 "status": "in-progress",
                 "submittedAt": None
@@ -106,15 +107,17 @@ def create_missing_completion_records(events):
             events.append({
                 "event": "completion_created",
                 "timestamp": now().isoformat(),
-                "studentId": student,
+                "studentId": student_id,
                 "assignmentId": assignment["assignmentId"],
-                "courseId": course
+                "courseId": course_id
             })
+
+            existing.add(key)
             next_id += 1
 
     save_json(COMPLETIONS_PATH, completions)
 
-# Automatically mark overdue work as missing
+
 def detect_due_dates(events):
     assignments = load_json(ASSIGNMENTS_PATH)
     completions = load_json(COMPLETIONS_PATH)
@@ -144,7 +147,7 @@ def detect_due_dates(events):
             changed = True
 
             events.append({
-                "event": "assignment_overdue",
+                "event": "assignment_missing",
                 "timestamp": now().isoformat(),
                 "studentId": completion["studentId"],
                 "assignmentId": completion["assignmentId"]
@@ -153,14 +156,20 @@ def detect_due_dates(events):
     if changed:
         save_json(COMPLETIONS_PATH, completions)
 
-# Detect newly completed assignments
+
 def detect_completed_assignments(events):
     completions = load_json(COMPLETIONS_PATH)
     snapshot = load_json(COMPLETION_SNAPSHOT_PATH)
+    assignments = load_json(ASSIGNMENTS_PATH)
 
     previous = {
-        c["completionId"]: c
-        for c in snapshot
+        completion["completionId"]: completion
+        for completion in snapshot
+    }
+
+    assignment_lookup = {
+        assignment["assignmentId"]: assignment
+        for assignment in assignments
     }
 
     for completion in completions:
@@ -170,10 +179,9 @@ def detect_completed_assignments(events):
             continue
 
         if (
-            old["status"] != "completed"
-            and completion["status"] == "completed"
+            old.get("status") != "completed"
+            and completion.get("status") == "completed"
         ):
-
             events.append({
                 "event": "assignment_completed",
                 "timestamp": now().isoformat(),
@@ -182,25 +190,22 @@ def detect_completed_assignments(events):
             })
 
         if (
-            completion["submittedAt"]
+            completion.get("submittedAt")
             and old.get("submittedAt") != completion["submittedAt"]
         ):
-
-            assignment_lookup = {
-                a["assignmentId"]: a
-                for a in load_json(ASSIGNMENTS_PATH)
-            }
-
-            due = parse_date(
-                assignment_lookup[completion["assignmentId"]]["dueDate"]
+            assignment = assignment_lookup.get(
+                completion["assignmentId"]
             )
 
-            submitted = parse_date(
-                completion["submittedAt"]
-            )
+            if assignment is None:
+                continue
+
+            due = parse_date(assignment["dueDate"])
+            submitted = parse_date(completion["submittedAt"])
 
             if submitted > due:
                 completion["status"] = "late"
+
                 events.append({
                     "event": "assignment_submitted_late",
                     "timestamp": now().isoformat(),
@@ -211,15 +216,19 @@ def detect_completed_assignments(events):
     save_json(COMPLETION_SNAPSHOT_PATH, completions)
     save_json(COMPLETIONS_PATH, completions)
 
-# Main
+
 def main():
     events = []
+
     detect_new_assignments(events)
     create_missing_completion_records(events)
     detect_due_dates(events)
     detect_completed_assignments(events)
+
     save_json(EVENTS_PATH, events)
+
     print(f"Created {len(events)} events.")
+
 
 if __name__ == "__main__":
     main()

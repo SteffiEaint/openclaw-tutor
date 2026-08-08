@@ -4,9 +4,9 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 2,
-        "total_assignments": 5,
-        "progress_percentage": 40.0,
-        "last_activity_date": "2026-07-28",
+        "total_assignments": 9,
+        "progress_percentage": 22.22,
+        "last_activity_date": "2026-08-05",
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
             "CS101 - Homework 1: Conditional Statements",
@@ -19,8 +19,8 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 2,
-        "total_assignments": 5,
-        "progress_percentage": 40.0,
+        "total_assignments": 6,
+        "progress_percentage": 33.33,
         "last_activity_date": "2026-07-31",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
@@ -49,8 +49,8 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 9,
+        "progress_percentage": 11.11,
         "last_activity_date": "2026-06-29",
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
@@ -65,13 +65,14 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 6,
+        "progress_percentage": 16.67,
         "last_activity_date": "2026-07-11",
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "Behind schedule"
     },
@@ -96,8 +97,8 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 9,
+        "progress_percentage": 11.11,
         "last_activity_date": "2026-07-07",
         "assignments_due": [
             "CS101 - Project 1: Hello World",
@@ -112,13 +113,14 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 6,
+        "progress_percentage": 16.67,
         "last_activity_date": "2026-07-13",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "Behind schedule"
     },
@@ -143,8 +145,8 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 9,
+        "progress_percentage": 11.11,
         "last_activity_date": "2026-06-28",
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
@@ -159,13 +161,14 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 6,
+        "progress_percentage": 16.67,
         "last_activity_date": "2026-07-11",
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "Behind schedule"
     },
@@ -190,8 +193,8 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 9,
+        "progress_percentage": 11.11,
         "last_activity_date": "2026-07-09",
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",
@@ -206,13 +209,14 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 6,
+        "progress_percentage": 16.67,
         "last_activity_date": "2026-07-04",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "Behind schedule"
     },
@@ -237,8 +241,8 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 9,
+        "progress_percentage": 11.11,
         "last_activity_date": "2026-07-07",
         "assignments_due": [
             "CS101 - Project 1: Hello World",
@@ -253,14 +257,15 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 0,
-        "total_assignments": 5,
+        "total_assignments": 6,
         "progress_percentage": 0.0,
         "last_activity_date": null,
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "No completed assignments"
     },
@@ -286,7 +291,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 0,
-        "total_assignments": 5,
+        "total_assignments": 9,
         "progress_percentage": 0.0,
         "last_activity_date": null,
         "assignments_due": [
@@ -303,14 +308,15 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 0,
-        "total_assignments": 5,
+        "total_assignments": 6,
         "progress_percentage": 0.0,
         "last_activity_date": "2026-07-13",
         "assignments_due": [
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "No completed assignments"
     },
@@ -319,13 +325,14 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 6,
+        "progress_percentage": 16.67,
         "last_activity_date": "2026-07-04",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "Behind schedule"
     },
@@ -350,13 +357,14 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 6,
+        "progress_percentage": 16.67,
         "last_activity_date": "2026-07-04",
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Midterm Exam"
         ],
         "status": "Behind schedule"
     },
@@ -365,8 +373,8 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "completed_assignments": 1,
-        "total_assignments": 5,
-        "progress_percentage": 20.0,
+        "total_assignments": 9,
+        "progress_percentage": 11.11,
         "last_activity_date": "2026-06-30",
         "assignments_due": [
             "CS101 - Lab 1: Variables and Data Types",

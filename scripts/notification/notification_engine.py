@@ -1,17 +1,17 @@
 import json
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 ENRICHED_REPORT_PATH = BASE_DIR / "reports" / "peppi_enriched_report.json"
 EVENTS_PATH = BASE_DIR / "events" / "events.json"
+
 STUDENTS_PATH = BASE_DIR / "mocks" / "moodlemock" / "students.json"
 COURSES_PATH = BASE_DIR / "mocks" / "moodlemock" / "courses.json"
 ENROLLMENTS_PATH = BASE_DIR / "mocks" / "moodlemock" / "enrollments.json"
-NOTIFICATION_QUEUE_PATH = BASE_DIR / "reports" / "notification_queue.json"
 
-NOTIFICATION_QUEUE_PATH.parent.mkdir(parents=True, exist_ok=True)
+NOTIFICATION_QUEUE_PATH = BASE_DIR / "reports" / "notification_queue.json"
 
 DEFAULT_ACTION = "send_email"
 
@@ -24,57 +24,40 @@ def load_json(path):
         return json.load(f)
 
 
+def timestamp():
+    return datetime.now().isoformat()
+
+
 def build_notification(
-    action,
-    trigger,
     notification_type,
     recipient_type,
     recipient,
-    student_data,
     priority,
-    extra=None
+    trigger,
+    **fields
 ):
     notification = {
-        "action": action,
+        "action": DEFAULT_ACTION,
         "trigger": trigger,
         "notification_type": notification_type,
         "recipient_type": recipient_type,
         "recipient": recipient,
         "priority": priority,
-        "timestamp": datetime.now().isoformat(),
-
-        "student_id": student_data.get("student_id"),
-        "student_name": student_data.get("student_name"),
-        "student_email": student_data.get("student_email"),
-
-        "teacher_name": student_data.get("teacher_name"),
-        "teacher_email": student_data.get("teacher_email"),
-
-        "course_id": student_data.get("course_id"),
-        "course_name": student_data.get("course_name"),
-        "course_url": student_data.get("course_url"),
-
-        "progress_percentage": student_data.get("progress_percentage")
+        "timestamp": timestamp()
     }
 
-    if extra:
-        notification.update(extra)
-
+    notification.update(fields)
     return notification
 
 
 def create_notification_queue(trigger="scheduled"):
-
     notification_queue = []
 
-    # Scheduled Progress Notifications
-    try:
-        enriched_report = load_json(ENRICHED_REPORT_PATH)
-    except Exception:
-        enriched_report = []
+    enriched_report = load_json(ENRICHED_REPORT_PATH)
 
     zero_progress_students_by_teacher = {}
 
+    # Scheduled progress notifications
     for student_data in enriched_report:
         progress = student_data.get("progress_percentage")
 
@@ -104,6 +87,7 @@ def create_notification_queue(trigger="scheduled"):
                     "student_id": student_data.get("student_id"),
                     "student_name": student_data.get("student_name"),
                     "student_email": student_data.get("student_email"),
+                    "course_id": student_data.get("course_id"),
                     "course_name": student_data.get("course_name"),
                     "course_url": student_data.get("course_url"),
                     "progress_percentage": progress
@@ -127,36 +111,42 @@ def create_notification_queue(trigger="scheduled"):
         if notification_type:
             notification_queue.append(
                 build_notification(
-                    DEFAULT_ACTION,
-                    trigger,
-                    notification_type,
-                    "student",
-                    student_data.get("student_email"),
-                    student_data,
-                    priority
+                    notification_type=notification_type,
+                    recipient_type="student",
+                    recipient=student_data.get("student_email"),
+                    priority=priority,
+                    trigger=trigger,
+                    student_id=student_data.get("student_id"),
+                    student_name=student_data.get("student_name"),
+                    student_email=student_data.get("student_email"),
+                    teacher_name=student_data.get("teacher_name"),
+                    teacher_email=student_data.get("teacher_email"),
+                    course_id=student_data.get("course_id"),
+                    course_name=student_data.get("course_name"),
+                    course_url=student_data.get("course_url"),
+                    progress_percentage=progress
                 )
             )
 
     # Teacher summaries
     for teacher_email, teacher_data in zero_progress_students_by_teacher.items():
-        notification_queue.append({
-            "action": DEFAULT_ACTION,
-            "trigger": trigger,
-            "notification_type": "teacher_summary",
-            "recipient_type": "teacher",
-            "recipient": teacher_email,
-            "priority": "high",
-            "timestamp": datetime.now().isoformat(),
-            "teacher_name": teacher_data["teacher_name"],
-            "teacher_email": teacher_email,
-            "students": teacher_data["students"]
-        })
+        notification_queue.append(
+            build_notification(
+                notification_type="teacher_summary",
+                recipient_type="teacher",
+                recipient=teacher_email,
+                priority="high",
+                trigger=trigger,
+                teacher_name=teacher_data["teacher_name"],
+                teacher_email=teacher_email,
+                students=teacher_data["students"]
+            )
+        )
 
-    # Event-based Notifications
-    events = load_json(EVENTS_PATH)
     students = load_json(STUDENTS_PATH)
     courses = load_json(COURSES_PATH)
     enrollments = load_json(ENROLLMENTS_PATH)
+    events = load_json(EVENTS_PATH)
 
     student_lookup = {
         student["studentId"]: student
@@ -168,11 +158,35 @@ def create_notification_queue(trigger="scheduled"):
         for course in courses
     }
 
+    def assignment_fields(event):
+        assignment_id = event.get("assignmentId")
+        assignment = next(
+            (
+                item
+                for item in load_json(
+                    BASE_DIR / "mocks" / "moodlemock" / "assignments.json"
+                )
+                if item.get("assignmentId") == assignment_id
+            ),
+            {}
+        )
+
+        course_id = event.get("courseId", assignment.get("courseId"))
+        course = course_lookup.get(course_id, {})
+
+        return {
+            "assignment_id": assignment_id,
+            "assignment_title": event.get("title", assignment.get("title")),
+            "due_date": event.get("dueDate", assignment.get("dueDate")),
+            "course_id": course_id,
+            "course_name": course.get("courseName")
+        }
+
     for event in events:
-        # New Assignment
-        if event["event"] == "new_assignment":
-            course = course_lookup.get(event["courseId"], {})
-            course_name = course.get("courseName", "Unknown Course")
+        event_type = event.get("event")
+
+        if event_type == "new_assignment":
+            fields = assignment_fields(event)
 
             for enrollment in enrollments:
                 if enrollment["courseId"] != event["courseId"]:
@@ -183,71 +197,67 @@ def create_notification_queue(trigger="scheduled"):
                 if not student:
                     continue
 
-                notification_queue.append({
-                    "action": DEFAULT_ACTION,
-                    "trigger": "event",
-                    "notification_type": "new_assignment",
-                    "recipient_type": "student",
-                    "recipient": student["email"],
-                    "priority": "medium",
-                    "timestamp": datetime.now().isoformat(),
-                    "student_id": student["studentId"],
-                    "student_name": student["name"],
-                    "student_email": student["email"],
-                    "course_id": event["courseId"],
-                    "course_name": course_name,
-                    "assignmentId": event["assignmentId"],
-                    "title": event["title"],
-                    "dueDate": event["dueDate"]
-                })
+                notification_queue.append(
+                    build_notification(
+                        notification_type="new_assignment",
+                        recipient_type="student",
+                        recipient=student["email"],
+                        priority="medium",
+                        trigger="event",
+                        student_id=student["studentId"],
+                        student_name=student["name"],
+                        student_email=student["email"],
+                        **fields
+                    )
+                )
 
-        # Assignment Completed
-        elif event["event"] == "assignment_completed":
-            student = student_lookup.get(event["studentId"])
-            if student:
-                notification_queue.append({
-                    "action": DEFAULT_ACTION,
-                    "trigger": "event",
-                    "notification_type": "assignment_completed",
-                    "recipient_type": "student",
-                    "recipient": student["email"],
-                    "priority": "low",
-                    "timestamp": datetime.now().isoformat(),
-                    "student_id": student["studentId"],
-                    "student_name": student["studentName"],
-                    "student_email": student["email"],
-                    **event
-                })
+        elif event_type in {
+            "assignment_completed",
+            "assignment_missing",
+            "assignment_submitted_late"
+        }:
+            student = student_lookup.get(event.get("studentId"))
 
-        # Assignment Missing
-        elif event["event"] == "assignment_missing":
-            student = student_lookup.get(event["studentId"])
-            if student:
-                notification_queue.append({
-                    "action": DEFAULT_ACTION,
-                    "trigger": "event",
-                    "notification_type": "assignment_missing",
-                    "recipient_type": "student",
-                    "recipient": student["email"],
-                    "priority": "high",
-                    "timestamp": datetime.now().isoformat(),
-                    "student_id": student["studentId"],
-                    "student_name": student["studentName"],
-                    "student_email": student["email"],
-                    **event
-                })
+            if not student:
+                continue
 
-    # Save queue
+            fields = assignment_fields(event)
+
+            priority = {
+                "assignment_completed": "low",
+                "assignment_submitted_late": "medium",
+                "assignment_missing": "high"
+            }[event_type]
+
+            notification_queue.append(
+                build_notification(
+                    notification_type=event_type,
+                    recipient_type="student",
+                    recipient=student["email"],
+                    priority=priority,
+                    trigger="event",
+                    student_id=student["studentId"],
+                    student_name=student["name"],
+                    student_email=student["email"],
+                    **fields
+                )
+            )
+
+    NOTIFICATION_QUEUE_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
     with open(
         NOTIFICATION_QUEUE_PATH,
         "w",
         encoding="utf-8"
     ) as f:
-
         json.dump(notification_queue, f, indent=4)
 
     print(f"Generated {len(notification_queue)} notifications.")
     print(f"Saved to {NOTIFICATION_QUEUE_PATH}")
+
 
 if __name__ == "__main__":
     create_notification_queue()

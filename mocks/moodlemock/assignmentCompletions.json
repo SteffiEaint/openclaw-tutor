@@ -17,8 +17,8 @@
         "completionId": "CM003",
         "studentId": "S001",
         "assignmentId": "A003",
-        "status": "missing",
-        "submittedAt": null
+        "status": "late",
+        "submittedAt": "2026-08-05T10:00:00Z"
     },
     {
         "completionId": "CM004",
@@ -934,6 +934,62 @@
         "completionId": "CM134",
         "studentId": "S004",
         "assignmentId": "A016",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM135",
+        "studentId": "S001",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM136",
+        "studentId": "S004",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM137",
+        "studentId": "S007",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM138",
+        "studentId": "S010",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM139",
+        "studentId": "S013",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM140",
+        "studentId": "S016",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM141",
+        "studentId": "S019",
+        "assignmentId": "ATEST",
+        "status": "in-progress",
+        "submittedAt": null
+    },
+    {
+        "completionId": "CM142",
+        "studentId": "S005",
+        "assignmentId": "ATEST",
         "status": "in-progress",
         "submittedAt": null
     }

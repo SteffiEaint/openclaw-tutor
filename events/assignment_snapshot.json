@@ -18,7 +18,7 @@
         "courseId": "C101",
         "title": "CS101 - Homework 1: Conditional Statements",
         "description": "Solve problems involving if-else statements.",
-        "dueDate": "2026-07-15T23:59:59Z"
+        "dueDate": "2025-01-01T00:00:00Z"
     },
     {
         "assignmentId": "A004",
@@ -110,5 +110,33 @@
         "title": "LA102 - Final Project: Linear Transformations",
         "description": "Create a project demonstrating linear transformations in 2D and 3D space.",
         "dueDate": "2026-08-09T23:59:59Z"
+    },
+    {
+        "assignmentId": "ATEST",
+        "courseId": "C101",
+        "title": "Playwright Test Assignment",
+        "description": "Testing",
+        "dueDate": "2030-12-31T23:59:59Z"
+    },
+    {
+        "assignmentId": "ATEST",
+        "courseId": "C101",
+        "title": "Playwright Test Assignment",
+        "description": "Testing",
+        "dueDate": "2030-12-31T23:59:59Z"
+    },
+    {
+        "assignmentId": "ATEST",
+        "courseId": "C101",
+        "title": "Playwright Test Assignment",
+        "description": "Testing",
+        "dueDate": "2030-12-31T23:59:59Z"
+    },
+    {
+        "assignmentId": "ATEST",
+        "courseId": "C101",
+        "title": "Playwright Test Assignment",
+        "description": "Testing",
+        "dueDate": "2030-12-31T23:59:59Z"
     }
 ]
