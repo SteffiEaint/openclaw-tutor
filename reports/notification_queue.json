@@ -2,11 +2,11 @@
     {
         "action": "send_email",
         "trigger": "scheduled",
-        "notification_type": "encouragement",
+        "notification_type": "reminder",
         "recipient_type": "student",
         "recipient": "alice.smith@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784157",
+        "timestamp": "2026-08-09T22:13:39.757667",
         "student_id": "S001",
         "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
@@ -15,7 +15,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 33.33
+        "progress_percentage": 22.22
     },
     {
         "action": "send_email",
@@ -24,7 +24,7 @@
         "recipient_type": "student",
         "recipient": "bob.johnson@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784169",
+        "timestamp": "2026-08-09T22:13:39.757672",
         "student_id": "S002",
         "student_name": "Bob Johnson",
         "student_email": "bob.johnson@example.com",
@@ -42,7 +42,7 @@
         "recipient_type": "student",
         "recipient": "charlie.brown@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784171",
+        "timestamp": "2026-08-09T22:13:39.757675",
         "student_id": "S003",
         "student_name": "Charlie Brown",
         "student_email": "charlie.brown@example.com",
@@ -51,7 +51,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 40
+        "progress_percentage": 40.0
     },
     {
         "action": "send_email",
@@ -60,7 +60,7 @@
         "recipient_type": "student",
         "recipient": "diana.prince@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784173",
+        "timestamp": "2026-08-09T22:13:39.757677",
         "student_id": "S004",
         "student_name": "Diana Prince",
         "student_email": "diana.prince@example.com",
@@ -78,7 +78,7 @@
         "recipient_type": "student",
         "recipient": "eve.adams@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784175",
+        "timestamp": "2026-08-09T22:13:39.757679",
         "student_id": "S005",
         "student_name": "Eve Adams",
         "student_email": "eve.adams@example.com",
@@ -96,7 +96,7 @@
         "recipient_type": "student",
         "recipient": "frank.white@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784176",
+        "timestamp": "2026-08-09T22:13:39.757680",
         "student_id": "S006",
         "student_name": "Frank White",
         "student_email": "frank.white@example.com",
@@ -105,7 +105,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20
+        "progress_percentage": 20.0
     },
     {
         "action": "send_email",
@@ -114,7 +114,7 @@
         "recipient_type": "student",
         "recipient": "grace.kelly@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784177",
+        "timestamp": "2026-08-09T22:13:39.757682",
         "student_id": "S007",
         "student_name": "Grace Kelly",
         "student_email": "grace.kelly@example.com",
@@ -132,7 +132,7 @@
         "recipient_type": "student",
         "recipient": "henry.moore@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784184",
+        "timestamp": "2026-08-09T22:13:39.757688",
         "student_id": "S008",
         "student_name": "Henry Moore",
         "student_email": "henry.moore@example.com",
@@ -150,7 +150,7 @@
         "recipient_type": "student",
         "recipient": "ivy.green@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784186",
+        "timestamp": "2026-08-09T22:13:39.757690",
         "student_id": "S009",
         "student_name": "Ivy Green",
         "student_email": "ivy.green@example.com",
@@ -159,7 +159,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20
+        "progress_percentage": 20.0
     },
     {
         "action": "send_email",
@@ -168,7 +168,7 @@
         "recipient_type": "student",
         "recipient": "jack.black@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784188",
+        "timestamp": "2026-08-09T22:13:39.757692",
         "student_id": "S010",
         "student_name": "Jack Black",
         "student_email": "jack.black@example.com",
@@ -186,7 +186,7 @@
         "recipient_type": "student",
         "recipient": "karen.red@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784190",
+        "timestamp": "2026-08-09T22:13:39.757694",
         "student_id": "S011",
         "student_name": "Karen Red",
         "student_email": "karen.red@example.com",
@@ -204,7 +204,7 @@
         "recipient_type": "student",
         "recipient": "leo.blue@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784191",
+        "timestamp": "2026-08-09T22:13:39.757697",
         "student_id": "S012",
         "student_name": "Leo Blue",
         "student_email": "leo.blue@example.com",
@@ -213,7 +213,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20
+        "progress_percentage": 20.0
     },
     {
         "action": "send_email",
@@ -222,7 +222,7 @@
         "recipient_type": "student",
         "recipient": "mia.wong@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784192",
+        "timestamp": "2026-08-09T22:13:39.757699",
         "student_id": "S013",
         "student_name": "Mia Wong",
         "student_email": "mia.wong@example.com",
@@ -240,7 +240,7 @@
         "recipient_type": "student",
         "recipient": "noah.davis@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784193",
+        "timestamp": "2026-08-09T22:13:39.757701",
         "student_id": "S014",
         "student_name": "Noah Davis",
         "student_email": "noah.davis@example.com",
@@ -258,7 +258,7 @@
         "recipient_type": "student",
         "recipient": "olivia.hall@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784195",
+        "timestamp": "2026-08-09T22:13:39.757702",
         "student_id": "S015",
         "student_name": "Olivia Hall",
         "student_email": "olivia.hall@example.com",
@@ -267,7 +267,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20
+        "progress_percentage": 20.0
     },
     {
         "action": "send_email",
@@ -276,7 +276,7 @@
         "recipient_type": "student",
         "recipient": "peter.king@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784196",
+        "timestamp": "2026-08-09T22:13:39.757704",
         "student_id": "S016",
         "student_name": "Peter King",
         "student_email": "peter.king@example.com",
@@ -294,7 +294,7 @@
         "recipient_type": "student",
         "recipient": "quinn.lee@example.com",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784199",
+        "timestamp": "2026-08-09T22:13:39.757707",
         "student_id": "S017",
         "student_name": "Quinn Lee",
         "student_email": "quinn.lee@example.com",
@@ -303,7 +303,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 0
+        "progress_percentage": 0.0
     },
     {
         "action": "send_email",
@@ -312,7 +312,7 @@
         "recipient_type": "student",
         "recipient": "rachel.scott@example.com",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784201",
+        "timestamp": "2026-08-09T22:13:39.757709",
         "student_id": "S018",
         "student_name": "Rachel Scott",
         "student_email": "rachel.scott@example.com",
@@ -321,7 +321,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 0
+        "progress_percentage": 0.0
     },
     {
         "action": "send_email",
@@ -330,7 +330,7 @@
         "recipient_type": "student",
         "recipient": "sam.taylor@example.com",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784213",
+        "timestamp": "2026-08-09T22:13:39.757712",
         "student_id": "S019",
         "student_name": "Sam Taylor",
         "student_email": "sam.taylor@example.com",
@@ -339,7 +339,7 @@
         "course_id": "C101",
         "course_name": "Introduction to Computer Science",
         "course_url": "https://peppimock.local/c101",
-        "progress_percentage": 0
+        "progress_percentage": 0.0
     },
     {
         "action": "send_email",
@@ -348,7 +348,7 @@
         "recipient_type": "student",
         "recipient": "tina.hill@example.com",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784218",
+        "timestamp": "2026-08-09T22:13:39.757714",
         "student_id": "S020",
         "student_name": "Tina Hill",
         "student_email": "tina.hill@example.com",
@@ -357,7 +357,7 @@
         "course_id": "C102",
         "course_name": "Linear Algebra",
         "course_url": "https://peppimock.local/c102",
-        "progress_percentage": 0
+        "progress_percentage": 0.0
     },
     {
         "action": "send_email",
@@ -366,7 +366,7 @@
         "recipient_type": "student",
         "recipient": "alice.smith@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784220",
+        "timestamp": "2026-08-09T22:13:39.757716",
         "student_id": "S001",
         "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
@@ -384,7 +384,7 @@
         "recipient_type": "student",
         "recipient": "bob.johnson@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784221",
+        "timestamp": "2026-08-09T22:13:39.757717",
         "student_id": "S002",
         "student_name": "Bob Johnson",
         "student_email": "bob.johnson@example.com",
@@ -393,7 +393,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20
+        "progress_percentage": 20.0
     },
     {
         "action": "send_email",
@@ -402,7 +402,7 @@
         "recipient_type": "student",
         "recipient": "diana.prince@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784223",
+        "timestamp": "2026-08-09T22:13:39.757719",
         "student_id": "S004",
         "student_name": "Diana Prince",
         "student_email": "diana.prince@example.com",
@@ -420,7 +420,7 @@
         "recipient_type": "student",
         "recipient": "eve.adams@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784224",
+        "timestamp": "2026-08-09T22:13:39.757721",
         "student_id": "S005",
         "student_name": "Eve Adams",
         "student_email": "eve.adams@example.com",
@@ -438,7 +438,7 @@
         "recipient_type": "student",
         "recipient": "grace.kelly@example.com",
         "priority": "medium",
-        "timestamp": "2026-08-08T19:58:18.784226",
+        "timestamp": "2026-08-09T22:13:39.757722",
         "student_id": "S007",
         "student_name": "Grace Kelly",
         "student_email": "grace.kelly@example.com",
@@ -447,7 +447,7 @@
         "course_id": "C103",
         "course_name": "World History I",
         "course_url": "https://peppimock.local/c103",
-        "progress_percentage": 20
+        "progress_percentage": 20.0
     },
     {
         "action": "send_email",
@@ -456,7 +456,7 @@
         "recipient_type": "teacher",
         "recipient": "johnson@test.fi",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784228",
+        "timestamp": "2026-08-09T22:13:39.757724",
         "teacher_name": "Prof. Johnson",
         "teacher_email": "johnson@test.fi",
         "students": [
@@ -464,17 +464,19 @@
                 "student_id": "S017",
                 "student_name": "Quinn Lee",
                 "student_email": "quinn.lee@example.com",
+                "course_id": "C102",
                 "course_name": "Linear Algebra",
                 "course_url": "https://peppimock.local/c102",
-                "progress_percentage": 0
+                "progress_percentage": 0.0
             },
             {
                 "student_id": "S020",
                 "student_name": "Tina Hill",
                 "student_email": "tina.hill@example.com",
+                "course_id": "C102",
                 "course_name": "Linear Algebra",
                 "course_url": "https://peppimock.local/c102",
-                "progress_percentage": 0
+                "progress_percentage": 0.0
             }
         ]
     },
@@ -485,7 +487,7 @@
         "recipient_type": "teacher",
         "recipient": "brown@test.fi",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784229",
+        "timestamp": "2026-08-09T22:13:39.757725",
         "teacher_name": "Dr. Brown",
         "teacher_email": "brown@test.fi",
         "students": [
@@ -493,9 +495,10 @@
                 "student_id": "S018",
                 "student_name": "Rachel Scott",
                 "student_email": "rachel.scott@example.com",
+                "course_id": "C103",
                 "course_name": "World History I",
                 "course_url": "https://peppimock.local/c103",
-                "progress_percentage": 0
+                "progress_percentage": 0.0
             }
         ]
     },
@@ -506,7 +509,7 @@
         "recipient_type": "teacher",
         "recipient": "smith@test.fi",
         "priority": "high",
-        "timestamp": "2026-08-08T19:58:18.784230",
+        "timestamp": "2026-08-09T22:13:39.757727",
         "teacher_name": "Dr. Smith",
         "teacher_email": "smith@test.fi",
         "students": [
@@ -514,25 +517,28 @@
                 "student_id": "S019",
                 "student_name": "Sam Taylor",
                 "student_email": "sam.taylor@example.com",
+                "course_id": "C101",
                 "course_name": "Introduction to Computer Science",
                 "course_url": "https://peppimock.local/c101",
-                "progress_percentage": 0
+                "progress_percentage": 0.0
             }
         ]
     },
     {
         "action": "send_email",
         "trigger": "event",
-        "notification_type": "assignment_completed",
+        "notification_type": "assignment_submitted_late",
         "recipient_type": "student",
         "recipient": "alice.smith@example.com",
-        "priority": "low",
-        "timestamp": "2026-08-08T16:58:18.743311+00:00",
+        "priority": "medium",
+        "timestamp": "2026-08-09T22:13:39.757912",
         "student_id": "S001",
         "student_name": "Alice Smith",
         "student_email": "alice.smith@example.com",
-        "event": "assignment_completed",
-        "studentId": "S001",
-        "assignmentId": "A003"
+        "assignment_id": "A003",
+        "assignment_title": "CS101 - Homework 1: Conditional Statements",
+        "due_date": "2026-07-15T23:59:59Z",
+        "course_id": "C101",
+        "course_name": "Introduction to Computer Science"
     }
 ]

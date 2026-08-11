@@ -1,0 +1,146 @@
+[
+    {
+        "id": "S001",
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S002",
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S003",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S004",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S005",
+        "name": "Eve Adams",
+        "email": "eve.adams@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S006",
+        "name": "Frank White",
+        "email": "frank.white@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S007",
+        "name": "Grace Kelly",
+        "email": "grace.kelly@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S008",
+        "name": "Henry Moore",
+        "email": "henry.moore@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S009",
+        "name": "Ivy Green",
+        "email": "ivy.green@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S010",
+        "name": "Jack Black",
+        "email": "jack.black@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S011",
+        "name": "Karen Red",
+        "email": "karen.red@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S012",
+        "name": "Leo Blue",
+        "email": "leo.blue@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S013",
+        "name": "Mia Wong",
+        "email": "mia.wong@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S014",
+        "name": "Noah Davis",
+        "email": "noah.davis@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S015",
+        "name": "Olivia Hall",
+        "email": "olivia.hall@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S016",
+        "name": "Peter King",
+        "email": "peter.king@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S017",
+        "name": "Quinn Lee",
+        "email": "quinn.lee@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S018",
+        "name": "Rachel Scott",
+        "email": "rachel.scott@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S019",
+        "name": "Sam Taylor",
+        "email": "sam.taylor@example.com",
+        "role": "student"
+    },
+    {
+        "id": "S020",
+        "name": "Tina Hill",
+        "email": "tina.hill@example.com",
+        "role": "student"
+    },
+    {
+        "id": "T001",
+        "name": "Dr. Smith",
+        "email": "smith@test.fi",
+        "role": "teacher"
+    },
+    {
+        "id": "T002",
+        "name": "Prof. Johnson",
+        "email": "johnson@test.fi",
+        "role": "teacher"
+    },
+    {
+        "id": "T003",
+        "name": "Dr. Brown",
+        "email": "brown@test.fi",
+        "role": "teacher"
+    },
+    {
+        "id": "ADMIN001",
+        "name": "Peppi Administrator",
+        "email": "admin@peppimock.local",
+        "role": "admin"
+    }
+]
