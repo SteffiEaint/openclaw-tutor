@@ -1,14 +1,1 @@
-[
-    {
-        "event": "assignment_completed",
-        "timestamp": "2026-08-08T16:58:18.743311+00:00",
-        "studentId": "S001",
-        "assignmentId": "A003"
-    },
-    {
-        "event": "assignment_submitted_late",
-        "timestamp": "2026-08-08T16:58:18.743363+00:00",
-        "studentId": "S001",
-        "assignmentId": "A003"
-    }
-]
+[]

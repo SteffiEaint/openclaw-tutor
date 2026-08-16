@@ -3,203 +3,3416 @@
         "recipient": "alice.smith@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817048",
+        "sent_at": "2026-08-13T13:11:50.499425",
         "email_type": "student_notification"
     },
     {
         "recipient": "bob.johnson@example.com",
         "subject": "Keep Going in Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817054",
+        "sent_at": "2026-08-13T13:11:50.499435",
         "email_type": "student_notification"
     },
     {
         "recipient": "charlie.brown@example.com",
         "subject": "Keep Going in World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817056",
+        "sent_at": "2026-08-13T13:11:50.499438",
         "email_type": "student_notification"
     },
     {
         "recipient": "diana.prince@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817059",
+        "sent_at": "2026-08-13T13:11:50.499441",
         "email_type": "student_notification"
     },
     {
         "recipient": "eve.adams@example.com",
         "subject": "Reminder: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817061",
+        "sent_at": "2026-08-13T13:11:50.499444",
         "email_type": "student_notification"
     },
     {
         "recipient": "frank.white@example.com",
         "subject": "Reminder: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817064",
+        "sent_at": "2026-08-13T13:11:50.499463",
         "email_type": "student_notification"
     },
     {
         "recipient": "grace.kelly@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817066",
+        "sent_at": "2026-08-13T13:11:50.499466",
         "email_type": "student_notification"
     },
     {
         "recipient": "henry.moore@example.com",
         "subject": "Reminder: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817070",
+        "sent_at": "2026-08-13T13:11:50.499471",
         "email_type": "student_notification"
     },
     {
         "recipient": "ivy.green@example.com",
         "subject": "Reminder: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817072",
+        "sent_at": "2026-08-13T13:11:50.499474",
         "email_type": "student_notification"
     },
     {
         "recipient": "jack.black@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817075",
+        "sent_at": "2026-08-13T13:11:50.499477",
         "email_type": "student_notification"
     },
     {
         "recipient": "karen.red@example.com",
         "subject": "Reminder: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817077",
+        "sent_at": "2026-08-13T13:11:50.499479",
         "email_type": "student_notification"
     },
     {
         "recipient": "leo.blue@example.com",
         "subject": "Reminder: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817079",
+        "sent_at": "2026-08-13T13:11:50.499481",
         "email_type": "student_notification"
     },
     {
         "recipient": "mia.wong@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817081",
+        "sent_at": "2026-08-13T13:11:50.499484",
         "email_type": "student_notification"
     },
     {
         "recipient": "noah.davis@example.com",
         "subject": "Reminder: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817083",
+        "sent_at": "2026-08-13T13:11:50.499486",
         "email_type": "student_notification"
     },
     {
         "recipient": "olivia.hall@example.com",
         "subject": "Reminder: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817085",
+        "sent_at": "2026-08-13T13:11:50.499488",
         "email_type": "student_notification"
     },
     {
         "recipient": "peter.king@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817087",
+        "sent_at": "2026-08-13T13:11:50.499491",
         "email_type": "student_notification"
     },
     {
         "recipient": "quinn.lee@example.com",
         "subject": "Action Required: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817089",
+        "sent_at": "2026-08-13T13:11:50.499493",
         "email_type": "student_notification"
     },
     {
         "recipient": "rachel.scott@example.com",
         "subject": "Action Required: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817095",
+        "sent_at": "2026-08-13T13:11:50.499501",
         "email_type": "student_notification"
     },
     {
         "recipient": "sam.taylor@example.com",
         "subject": "Action Required: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817097",
+        "sent_at": "2026-08-13T13:11:50.499504",
         "email_type": "student_notification"
     },
     {
         "recipient": "tina.hill@example.com",
         "subject": "Action Required: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817099",
+        "sent_at": "2026-08-13T13:11:50.499506",
         "email_type": "student_notification"
     },
     {
         "recipient": "alice.smith@example.com",
         "subject": "Reminder: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817101",
+        "sent_at": "2026-08-13T13:11:50.499509",
         "email_type": "student_notification"
     },
     {
         "recipient": "bob.johnson@example.com",
         "subject": "Reminder: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817103",
+        "sent_at": "2026-08-13T13:11:50.499511",
         "email_type": "student_notification"
     },
     {
         "recipient": "diana.prince@example.com",
         "subject": "Reminder: Linear Algebra",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817107",
+        "sent_at": "2026-08-13T13:11:50.499513",
         "email_type": "student_notification"
     },
     {
         "recipient": "eve.adams@example.com",
         "subject": "Reminder: Introduction to Computer Science",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817109",
+        "sent_at": "2026-08-13T13:11:50.499516",
         "email_type": "student_notification"
     },
     {
         "recipient": "grace.kelly@example.com",
         "subject": "Reminder: World History I",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817111",
-        "email_type": "student_notification"
-    },
-    {
-        "recipient": "alice.smith@example.com",
-        "subject": "Late Submission: CS101 - Homework 1: Conditional Statements",
-        "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817113",
+        "sent_at": "2026-08-13T13:11:50.499518",
         "email_type": "student_notification"
     },
     {
         "recipient": "johnson@test.fi",
         "subject": "Summary: Students with 0% Progress",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817115",
+        "sent_at": "2026-08-13T13:11:50.499520",
         "email_type": "teacher_summary"
     },
     {
         "recipient": "brown@test.fi",
         "subject": "Summary: Students with 0% Progress",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817117",
+        "sent_at": "2026-08-13T13:11:50.499524",
         "email_type": "teacher_summary"
     },
     {
         "recipient": "smith@test.fi",
         "subject": "Summary: Students with 0% Progress",
         "status": "sent",
-        "sent_at": "2026-08-09T22:13:39.817119",
+        "sent_at": "2026-08-13T13:11:50.499526",
         "email_type": "teacher_summary"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0001",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.299834+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "438ee2b8a024d4323ee69c4d1bb866b1ded4a1909bf2667401c6dc15105be7b4"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0002",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.299967+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "cda39ee57cefff353516a7c35743439b69c35dab5f946edeace887fc1dad91d9"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0003",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.299984+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a9d6f98cfc59ea0fb064942f3d409b4cb21a760751c3d9b3e8bdf97d5298de60"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0004",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.299999+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a3326740d8c3834da4eec61612a74ad0ddbbc590907ea68cb87a91ba505336b2"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0005",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300014+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "ff8e005a1d576767eccb0f0d06a91a2cddee190e0172bc6d88deb4c86c960414"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0006",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300029+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "02c42e816a38229b76771e8e138a3e62c188132846baa0af664b17c449869e9f"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0007",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300044+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "492a1034f78b1cacf762b8e95973c07c13b795c0b09ba89f79caee85429aed00"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0008",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300060+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "958b7b0c40ccf0f6a2e7d4579b065a06d3831b1aafe5c4dfc67e9cb08d448a74"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0009",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300075+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "e08801a72dd1e60338358c74ec27f1a2ad3de93e6e68abcc575a6a695c7445e9"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0010",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300091+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "1221d5ef743269ef84d83d51c3f23f170562d3dede413bb9b2de4be2dc6cd0c2"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0011",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300105+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "0a443732afffbd0d65f36c7523492e625f3b529bf1273b54ebbd02514fe5ce50"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0012",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300119+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "1aafc075ccfa078a9eca3bf0428ab7dd88f2a8a64f74c5bbd58622c79e88d54a"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0013",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300134+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "66705e6f26723ee8e37415aa3d391aedcb1a07a568d848865a43e61246889d8f"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0014",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300148+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "b5df1b9d214f0f42d425f1e0e4fb042efb3620bdcf9e9736d00134d67ce8ab98"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0015",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300162+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a17ddf22637be25b9c0b24b7203ea10475d96fa60bd0b4c1cf0d596b689d3030"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0016",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300176+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "c7a205db4c394af58cf0c96255014a6fbda99fa6f649399227e9b57d8253d149"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0017",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300191+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "daeee6d3b9bbca65c78b48e3a466e165897f66d3402d96cb3456377489419579"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0018",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300205+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "8bbf7d5161de467f503ecb82dbb5686420d700411fb3b71816922a1a1cf52fc9"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0019",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300220+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a6488d2a507eeb8ee8f2e79efd9436826ebcb161cc5c7fa96eda34f4ea1cf148"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0020",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300234+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "1d2307b87f7b34b03bd8927b96f10cfa5bb70966a27acc9033bed8ba399b81a8"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0021",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300248+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "916e6aeaa649caa8a5598d89affc89162db4c55b846aac1d7a40b7e6deb069af"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0022",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300262+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "2c6b82cbc5c865ad89cbec9523175c82d6d06ed33fdcf7bd059c7542c45bbf98"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0023",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300277+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "239020496f6434929ed954f518dcef0e7089a70cd31e06ab76c469d6a308b9c9"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0024",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300291+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "911b031e17bafd7aac69cb9a1db5513959bdd4889344be763a45d6e068dc1f30"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0025",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300305+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a1f4befbf0ec24adf8556b6d678cec095f1d2463fe7c7f65ccffbe536970537e"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0026",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300324+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "f56781032b821cff0e6eee1f36db7a8a74777cda2cb0b6172671e5f3f6342dd1"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0027",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300341+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "be8adf1c110e771a573823d560fe692a8489f00070d09b84b3a1f7ad0066723e"
+    },
+    {
+        "email_id": "EMAIL-8bc6bcb75c47-0028",
+        "workflow_run_id": "8bc6bcb75c47",
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:32:48.300356+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "869100735ce4498316fae96d4f291a1826fa1942e930a55e93519b9db8f36556"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0001",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234215+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "438ee2b8a024d4323ee69c4d1bb866b1ded4a1909bf2667401c6dc15105be7b4"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0002",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234344+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "cda39ee57cefff353516a7c35743439b69c35dab5f946edeace887fc1dad91d9"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0003",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234361+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a9d6f98cfc59ea0fb064942f3d409b4cb21a760751c3d9b3e8bdf97d5298de60"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0004",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234376+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a3326740d8c3834da4eec61612a74ad0ddbbc590907ea68cb87a91ba505336b2"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0005",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234392+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "ff8e005a1d576767eccb0f0d06a91a2cddee190e0172bc6d88deb4c86c960414"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0006",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234407+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "02c42e816a38229b76771e8e138a3e62c188132846baa0af664b17c449869e9f"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0007",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234422+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "492a1034f78b1cacf762b8e95973c07c13b795c0b09ba89f79caee85429aed00"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0008",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234438+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "958b7b0c40ccf0f6a2e7d4579b065a06d3831b1aafe5c4dfc67e9cb08d448a74"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0009",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234454+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "e08801a72dd1e60338358c74ec27f1a2ad3de93e6e68abcc575a6a695c7445e9"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0010",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234469+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "1221d5ef743269ef84d83d51c3f23f170562d3dede413bb9b2de4be2dc6cd0c2"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0011",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234484+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "0a443732afffbd0d65f36c7523492e625f3b529bf1273b54ebbd02514fe5ce50"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0012",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234497+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "1aafc075ccfa078a9eca3bf0428ab7dd88f2a8a64f74c5bbd58622c79e88d54a"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0013",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234512+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "66705e6f26723ee8e37415aa3d391aedcb1a07a568d848865a43e61246889d8f"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0014",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234527+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "b5df1b9d214f0f42d425f1e0e4fb042efb3620bdcf9e9736d00134d67ce8ab98"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0015",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234541+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a17ddf22637be25b9c0b24b7203ea10475d96fa60bd0b4c1cf0d596b689d3030"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0016",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234556+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "c7a205db4c394af58cf0c96255014a6fbda99fa6f649399227e9b57d8253d149"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0017",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234570+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "daeee6d3b9bbca65c78b48e3a466e165897f66d3402d96cb3456377489419579"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0018",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234584+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "8bbf7d5161de467f503ecb82dbb5686420d700411fb3b71816922a1a1cf52fc9"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0019",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234599+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a6488d2a507eeb8ee8f2e79efd9436826ebcb161cc5c7fa96eda34f4ea1cf148"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0020",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234614+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "1d2307b87f7b34b03bd8927b96f10cfa5bb70966a27acc9033bed8ba399b81a8"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0021",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234628+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "916e6aeaa649caa8a5598d89affc89162db4c55b846aac1d7a40b7e6deb069af"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0022",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234643+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "2c6b82cbc5c865ad89cbec9523175c82d6d06ed33fdcf7bd059c7542c45bbf98"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0023",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234658+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "239020496f6434929ed954f518dcef0e7089a70cd31e06ab76c469d6a308b9c9"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0024",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234673+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "911b031e17bafd7aac69cb9a1db5513959bdd4889344be763a45d6e068dc1f30"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0025",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234687+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "a1f4befbf0ec24adf8556b6d678cec095f1d2463fe7c7f65ccffbe536970537e"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0026",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234710+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "f56781032b821cff0e6eee1f36db7a8a74777cda2cb0b6172671e5f3f6342dd1"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0027",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234725+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "be8adf1c110e771a573823d560fe692a8489f00070d09b84b3a1f7ad0066723e"
+    },
+    {
+        "email_id": "EMAIL-98f5a9c79382-0028",
+        "workflow_run_id": "98f5a9c79382",
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:33:14.234740+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "869100735ce4498316fae96d4f291a1826fa1942e930a55e93519b9db8f36556"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642265+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-001",
+        "email_id": "RUN-9b1b9f4bc59b-STU-001",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642536+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-002",
+        "email_id": "RUN-9b1b9f4bc59b-STU-002",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642578+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-003",
+        "email_id": "RUN-9b1b9f4bc59b-STU-003",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642663+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-004",
+        "email_id": "RUN-9b1b9f4bc59b-STU-004",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642724+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-005",
+        "email_id": "RUN-9b1b9f4bc59b-STU-005",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642777+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-006",
+        "email_id": "RUN-9b1b9f4bc59b-STU-006",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642822+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-007",
+        "email_id": "RUN-9b1b9f4bc59b-STU-007",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642905+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-008",
+        "email_id": "RUN-9b1b9f4bc59b-STU-008",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642950+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-009",
+        "email_id": "RUN-9b1b9f4bc59b-STU-009",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642971+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-010",
+        "email_id": "RUN-9b1b9f4bc59b-STU-010",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642985+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-011",
+        "email_id": "RUN-9b1b9f4bc59b-STU-011",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.642999+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-012",
+        "email_id": "RUN-9b1b9f4bc59b-STU-012",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643012+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-013",
+        "email_id": "RUN-9b1b9f4bc59b-STU-013",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643025+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-014",
+        "email_id": "RUN-9b1b9f4bc59b-STU-014",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643038+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-015",
+        "email_id": "RUN-9b1b9f4bc59b-STU-015",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643051+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-016",
+        "email_id": "RUN-9b1b9f4bc59b-STU-016",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643064+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-017",
+        "email_id": "RUN-9b1b9f4bc59b-STU-017",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643077+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-018",
+        "email_id": "RUN-9b1b9f4bc59b-STU-018",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643090+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-019",
+        "email_id": "RUN-9b1b9f4bc59b-STU-019",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643103+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-020",
+        "email_id": "RUN-9b1b9f4bc59b-STU-020",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643116+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-021",
+        "email_id": "RUN-9b1b9f4bc59b-STU-021",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643129+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-022",
+        "email_id": "RUN-9b1b9f4bc59b-STU-022",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643142+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-023",
+        "email_id": "RUN-9b1b9f4bc59b-STU-023",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643155+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-024",
+        "email_id": "RUN-9b1b9f4bc59b-STU-024",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643168+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9b1b9f4bc59b-STU-025",
+        "email_id": "RUN-9b1b9f4bc59b-STU-025",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643182+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9b1b9f4bc59b-TEA-001",
+        "email_id": "RUN-9b1b9f4bc59b-TEA-001",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643196+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9b1b9f4bc59b-TEA-002",
+        "email_id": "RUN-9b1b9f4bc59b-TEA-002",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:37:36.643209+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9b1b9f4bc59b-TEA-003",
+        "email_id": "RUN-9b1b9f4bc59b-TEA-003",
+        "workflow_run_id": "RUN-9b1b9f4bc59b"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Keep Going in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.170862+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-001",
+        "email_id": "RUN-cf579f6890d8-STU-001",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171058+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-002",
+        "email_id": "RUN-cf579f6890d8-STU-002",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171063+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-003",
+        "email_id": "RUN-cf579f6890d8-STU-003",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171067+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-004",
+        "email_id": "RUN-cf579f6890d8-STU-004",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171071+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-005",
+        "email_id": "RUN-cf579f6890d8-STU-005",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171075+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-006",
+        "email_id": "RUN-cf579f6890d8-STU-006",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171079+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-007",
+        "email_id": "RUN-cf579f6890d8-STU-007",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171083+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-008",
+        "email_id": "RUN-cf579f6890d8-STU-008",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171087+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-009",
+        "email_id": "RUN-cf579f6890d8-STU-009",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171090+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-010",
+        "email_id": "RUN-cf579f6890d8-STU-010",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171093+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-011",
+        "email_id": "RUN-cf579f6890d8-STU-011",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171096+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-012",
+        "email_id": "RUN-cf579f6890d8-STU-012",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171099+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-013",
+        "email_id": "RUN-cf579f6890d8-STU-013",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171103+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-014",
+        "email_id": "RUN-cf579f6890d8-STU-014",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171106+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-015",
+        "email_id": "RUN-cf579f6890d8-STU-015",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171109+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-016",
+        "email_id": "RUN-cf579f6890d8-STU-016",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171112+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-017",
+        "email_id": "RUN-cf579f6890d8-STU-017",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171125+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-018",
+        "email_id": "RUN-cf579f6890d8-STU-018",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171130+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-019",
+        "email_id": "RUN-cf579f6890d8-STU-019",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171133+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-020",
+        "email_id": "RUN-cf579f6890d8-STU-020",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171136+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-021",
+        "email_id": "RUN-cf579f6890d8-STU-021",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171143+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-022",
+        "email_id": "RUN-cf579f6890d8-STU-022",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171146+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-023",
+        "email_id": "RUN-cf579f6890d8-STU-023",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171149+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-024",
+        "email_id": "RUN-cf579f6890d8-STU-024",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171153+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-025",
+        "email_id": "RUN-cf579f6890d8-STU-025",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Assignment Completed: CS101 - Homework 1: Conditional Statements",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171156+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-cf579f6890d8-STU-026",
+        "email_id": "RUN-cf579f6890d8-STU-026",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171159+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-cf579f6890d8-TEA-001",
+        "email_id": "RUN-cf579f6890d8-TEA-001",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171162+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-cf579f6890d8-TEA-002",
+        "email_id": "RUN-cf579f6890d8-TEA-002",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:20.171165+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-cf579f6890d8-TEA-003",
+        "email_id": "RUN-cf579f6890d8-TEA-003",
+        "workflow_run_id": "RUN-cf579f6890d8"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959396+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-001",
+        "email_id": "RUN-a30040c1aeb6-STU-001",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959531+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-002",
+        "email_id": "RUN-a30040c1aeb6-STU-002",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959536+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-003",
+        "email_id": "RUN-a30040c1aeb6-STU-003",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959541+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-004",
+        "email_id": "RUN-a30040c1aeb6-STU-004",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959545+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-005",
+        "email_id": "RUN-a30040c1aeb6-STU-005",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959549+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-006",
+        "email_id": "RUN-a30040c1aeb6-STU-006",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959553+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-007",
+        "email_id": "RUN-a30040c1aeb6-STU-007",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959557+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-008",
+        "email_id": "RUN-a30040c1aeb6-STU-008",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959562+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-009",
+        "email_id": "RUN-a30040c1aeb6-STU-009",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959566+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-010",
+        "email_id": "RUN-a30040c1aeb6-STU-010",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959570+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-011",
+        "email_id": "RUN-a30040c1aeb6-STU-011",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959574+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-012",
+        "email_id": "RUN-a30040c1aeb6-STU-012",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959581+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-013",
+        "email_id": "RUN-a30040c1aeb6-STU-013",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959586+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-014",
+        "email_id": "RUN-a30040c1aeb6-STU-014",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959590+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-015",
+        "email_id": "RUN-a30040c1aeb6-STU-015",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959594+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-016",
+        "email_id": "RUN-a30040c1aeb6-STU-016",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959598+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-017",
+        "email_id": "RUN-a30040c1aeb6-STU-017",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959607+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-018",
+        "email_id": "RUN-a30040c1aeb6-STU-018",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959611+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-019",
+        "email_id": "RUN-a30040c1aeb6-STU-019",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959614+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-020",
+        "email_id": "RUN-a30040c1aeb6-STU-020",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959617+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-021",
+        "email_id": "RUN-a30040c1aeb6-STU-021",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959620+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-022",
+        "email_id": "RUN-a30040c1aeb6-STU-022",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959624+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-023",
+        "email_id": "RUN-a30040c1aeb6-STU-023",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959627+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-024",
+        "email_id": "RUN-a30040c1aeb6-STU-024",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959630+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-025",
+        "email_id": "RUN-a30040c1aeb6-STU-025",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959634+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-026",
+        "email_id": "RUN-a30040c1aeb6-STU-026",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959637+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-027",
+        "email_id": "RUN-a30040c1aeb6-STU-027",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959640+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-028",
+        "email_id": "RUN-a30040c1aeb6-STU-028",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959643+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-029",
+        "email_id": "RUN-a30040c1aeb6-STU-029",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959647+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-030",
+        "email_id": "RUN-a30040c1aeb6-STU-030",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959650+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-031",
+        "email_id": "RUN-a30040c1aeb6-STU-031",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959653+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-032",
+        "email_id": "RUN-a30040c1aeb6-STU-032",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959656+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-033",
+        "email_id": "RUN-a30040c1aeb6-STU-033",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959663+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-034",
+        "email_id": "RUN-a30040c1aeb6-STU-034",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959666+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-035",
+        "email_id": "RUN-a30040c1aeb6-STU-035",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959669+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-036",
+        "email_id": "RUN-a30040c1aeb6-STU-036",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959672+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-037",
+        "email_id": "RUN-a30040c1aeb6-STU-037",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959675+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-038",
+        "email_id": "RUN-a30040c1aeb6-STU-038",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959678+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-039",
+        "email_id": "RUN-a30040c1aeb6-STU-039",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959681+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-040",
+        "email_id": "RUN-a30040c1aeb6-STU-040",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959684+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-041",
+        "email_id": "RUN-a30040c1aeb6-STU-041",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959687+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-042",
+        "email_id": "RUN-a30040c1aeb6-STU-042",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959691+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-043",
+        "email_id": "RUN-a30040c1aeb6-STU-043",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959694+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-044",
+        "email_id": "RUN-a30040c1aeb6-STU-044",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959697+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-045",
+        "email_id": "RUN-a30040c1aeb6-STU-045",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959700+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-046",
+        "email_id": "RUN-a30040c1aeb6-STU-046",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959703+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-047",
+        "email_id": "RUN-a30040c1aeb6-STU-047",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959706+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-048",
+        "email_id": "RUN-a30040c1aeb6-STU-048",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959711+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-049",
+        "email_id": "RUN-a30040c1aeb6-STU-049",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959714+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-050",
+        "email_id": "RUN-a30040c1aeb6-STU-050",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959717+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-051",
+        "email_id": "RUN-a30040c1aeb6-STU-051",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959720+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-052",
+        "email_id": "RUN-a30040c1aeb6-STU-052",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959723+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-053",
+        "email_id": "RUN-a30040c1aeb6-STU-053",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959726+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-054",
+        "email_id": "RUN-a30040c1aeb6-STU-054",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959729+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-055",
+        "email_id": "RUN-a30040c1aeb6-STU-055",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959732+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-056",
+        "email_id": "RUN-a30040c1aeb6-STU-056",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959735+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-057",
+        "email_id": "RUN-a30040c1aeb6-STU-057",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959738+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-058",
+        "email_id": "RUN-a30040c1aeb6-STU-058",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959741+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-059",
+        "email_id": "RUN-a30040c1aeb6-STU-059",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959744+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-060",
+        "email_id": "RUN-a30040c1aeb6-STU-060",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959747+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-061",
+        "email_id": "RUN-a30040c1aeb6-STU-061",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959750+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-062",
+        "email_id": "RUN-a30040c1aeb6-STU-062",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959752+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-063",
+        "email_id": "RUN-a30040c1aeb6-STU-063",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959755+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-064",
+        "email_id": "RUN-a30040c1aeb6-STU-064",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "New Assignment in Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959761+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-a30040c1aeb6-STU-065",
+        "email_id": "RUN-a30040c1aeb6-STU-065",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959764+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-a30040c1aeb6-TEA-001",
+        "email_id": "RUN-a30040c1aeb6-TEA-001",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959767+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-a30040c1aeb6-TEA-002",
+        "email_id": "RUN-a30040c1aeb6-TEA-002",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:22.959770+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-a30040c1aeb6-TEA-003",
+        "email_id": "RUN-a30040c1aeb6-TEA-003",
+        "workflow_run_id": "RUN-a30040c1aeb6"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978479+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-001",
+        "email_id": "RUN-9f9f87f13f17-STU-001",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978607+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-002",
+        "email_id": "RUN-9f9f87f13f17-STU-002",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978612+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-003",
+        "email_id": "RUN-9f9f87f13f17-STU-003",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978617+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-004",
+        "email_id": "RUN-9f9f87f13f17-STU-004",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978621+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-005",
+        "email_id": "RUN-9f9f87f13f17-STU-005",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978625+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-006",
+        "email_id": "RUN-9f9f87f13f17-STU-006",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978628+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-007",
+        "email_id": "RUN-9f9f87f13f17-STU-007",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978631+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-008",
+        "email_id": "RUN-9f9f87f13f17-STU-008",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978634+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-009",
+        "email_id": "RUN-9f9f87f13f17-STU-009",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978637+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-010",
+        "email_id": "RUN-9f9f87f13f17-STU-010",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978640+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-011",
+        "email_id": "RUN-9f9f87f13f17-STU-011",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978643+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-012",
+        "email_id": "RUN-9f9f87f13f17-STU-012",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978646+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-013",
+        "email_id": "RUN-9f9f87f13f17-STU-013",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978649+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-014",
+        "email_id": "RUN-9f9f87f13f17-STU-014",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978652+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-015",
+        "email_id": "RUN-9f9f87f13f17-STU-015",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978655+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-016",
+        "email_id": "RUN-9f9f87f13f17-STU-016",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978658+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-017",
+        "email_id": "RUN-9f9f87f13f17-STU-017",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978667+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-018",
+        "email_id": "RUN-9f9f87f13f17-STU-018",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978671+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-019",
+        "email_id": "RUN-9f9f87f13f17-STU-019",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978674+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-020",
+        "email_id": "RUN-9f9f87f13f17-STU-020",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978677+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-021",
+        "email_id": "RUN-9f9f87f13f17-STU-021",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978681+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-022",
+        "email_id": "RUN-9f9f87f13f17-STU-022",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978684+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-023",
+        "email_id": "RUN-9f9f87f13f17-STU-023",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978687+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-024",
+        "email_id": "RUN-9f9f87f13f17-STU-024",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978690+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-025",
+        "email_id": "RUN-9f9f87f13f17-STU-025",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Assignment Missing: CS101 - Homework 1: Conditional Statements",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978693+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9f9f87f13f17-STU-026",
+        "email_id": "RUN-9f9f87f13f17-STU-026",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978697+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9f9f87f13f17-TEA-001",
+        "email_id": "RUN-9f9f87f13f17-TEA-001",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978700+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9f9f87f13f17-TEA-002",
+        "email_id": "RUN-9f9f87f13f17-TEA-002",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:24.978703+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9f9f87f13f17-TEA-003",
+        "email_id": "RUN-9f9f87f13f17-TEA-003",
+        "workflow_run_id": "RUN-9f9f87f13f17"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.782999+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-001",
+        "email_id": "RUN-9139b703b9a1-STU-001",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783140+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-002",
+        "email_id": "RUN-9139b703b9a1-STU-002",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783145+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-003",
+        "email_id": "RUN-9139b703b9a1-STU-003",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783149+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-004",
+        "email_id": "RUN-9139b703b9a1-STU-004",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783152+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-005",
+        "email_id": "RUN-9139b703b9a1-STU-005",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783156+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-006",
+        "email_id": "RUN-9139b703b9a1-STU-006",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783159+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-007",
+        "email_id": "RUN-9139b703b9a1-STU-007",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783163+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-008",
+        "email_id": "RUN-9139b703b9a1-STU-008",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783166+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-009",
+        "email_id": "RUN-9139b703b9a1-STU-009",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783169+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-010",
+        "email_id": "RUN-9139b703b9a1-STU-010",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783172+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-011",
+        "email_id": "RUN-9139b703b9a1-STU-011",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783175+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-012",
+        "email_id": "RUN-9139b703b9a1-STU-012",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783178+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-013",
+        "email_id": "RUN-9139b703b9a1-STU-013",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783181+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-014",
+        "email_id": "RUN-9139b703b9a1-STU-014",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783184+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-015",
+        "email_id": "RUN-9139b703b9a1-STU-015",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783187+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-016",
+        "email_id": "RUN-9139b703b9a1-STU-016",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783190+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-017",
+        "email_id": "RUN-9139b703b9a1-STU-017",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783200+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-018",
+        "email_id": "RUN-9139b703b9a1-STU-018",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783204+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-019",
+        "email_id": "RUN-9139b703b9a1-STU-019",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783207+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-020",
+        "email_id": "RUN-9139b703b9a1-STU-020",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783210+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-021",
+        "email_id": "RUN-9139b703b9a1-STU-021",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783213+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-022",
+        "email_id": "RUN-9139b703b9a1-STU-022",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783216+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-023",
+        "email_id": "RUN-9139b703b9a1-STU-023",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783219+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-024",
+        "email_id": "RUN-9139b703b9a1-STU-024",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783222+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-9139b703b9a1-STU-025",
+        "email_id": "RUN-9139b703b9a1-STU-025",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783225+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9139b703b9a1-TEA-001",
+        "email_id": "RUN-9139b703b9a1-TEA-001",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783229+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9139b703b9a1-TEA-002",
+        "email_id": "RUN-9139b703b9a1-TEA-002",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:41:26.783232+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-9139b703b9a1-TEA-003",
+        "email_id": "RUN-9139b703b9a1-TEA-003",
+        "workflow_run_id": "RUN-9139b703b9a1"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406534+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-001",
+        "email_id": "RUN-6bd4331382be-STU-001",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406680+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-002",
+        "email_id": "RUN-6bd4331382be-STU-002",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406685+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-003",
+        "email_id": "RUN-6bd4331382be-STU-003",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406689+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-004",
+        "email_id": "RUN-6bd4331382be-STU-004",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406694+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-005",
+        "email_id": "RUN-6bd4331382be-STU-005",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406697+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-006",
+        "email_id": "RUN-6bd4331382be-STU-006",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406700+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-007",
+        "email_id": "RUN-6bd4331382be-STU-007",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406706+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-008",
+        "email_id": "RUN-6bd4331382be-STU-008",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406709+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-009",
+        "email_id": "RUN-6bd4331382be-STU-009",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406712+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-010",
+        "email_id": "RUN-6bd4331382be-STU-010",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406715+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-011",
+        "email_id": "RUN-6bd4331382be-STU-011",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406717+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-012",
+        "email_id": "RUN-6bd4331382be-STU-012",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406720+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-013",
+        "email_id": "RUN-6bd4331382be-STU-013",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406723+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-014",
+        "email_id": "RUN-6bd4331382be-STU-014",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406725+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-015",
+        "email_id": "RUN-6bd4331382be-STU-015",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406728+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-016",
+        "email_id": "RUN-6bd4331382be-STU-016",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406731+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-017",
+        "email_id": "RUN-6bd4331382be-STU-017",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406742+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-018",
+        "email_id": "RUN-6bd4331382be-STU-018",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406749+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-019",
+        "email_id": "RUN-6bd4331382be-STU-019",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406753+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-020",
+        "email_id": "RUN-6bd4331382be-STU-020",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406757+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-021",
+        "email_id": "RUN-6bd4331382be-STU-021",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406760+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-022",
+        "email_id": "RUN-6bd4331382be-STU-022",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406763+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-023",
+        "email_id": "RUN-6bd4331382be-STU-023",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406765+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-024",
+        "email_id": "RUN-6bd4331382be-STU-024",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406768+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-6bd4331382be-STU-025",
+        "email_id": "RUN-6bd4331382be-STU-025",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406771+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-6bd4331382be-TEA-001",
+        "email_id": "RUN-6bd4331382be-TEA-001",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406773+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-6bd4331382be-TEA-002",
+        "email_id": "RUN-6bd4331382be-TEA-002",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-13T12:55:37.406776+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-6bd4331382be-TEA-003",
+        "email_id": "RUN-6bd4331382be-TEA-003",
+        "workflow_run_id": "RUN-6bd4331382be"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402598+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-001",
+        "email_id": "RUN-3cd8dab0d7b5-STU-001",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402719+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-002",
+        "email_id": "RUN-3cd8dab0d7b5-STU-002",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402724+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-003",
+        "email_id": "RUN-3cd8dab0d7b5-STU-003",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402728+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-004",
+        "email_id": "RUN-3cd8dab0d7b5-STU-004",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402732+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-005",
+        "email_id": "RUN-3cd8dab0d7b5-STU-005",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402735+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-006",
+        "email_id": "RUN-3cd8dab0d7b5-STU-006",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402738+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-007",
+        "email_id": "RUN-3cd8dab0d7b5-STU-007",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402742+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-008",
+        "email_id": "RUN-3cd8dab0d7b5-STU-008",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402745+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-009",
+        "email_id": "RUN-3cd8dab0d7b5-STU-009",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402748+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-010",
+        "email_id": "RUN-3cd8dab0d7b5-STU-010",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402751+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-011",
+        "email_id": "RUN-3cd8dab0d7b5-STU-011",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402754+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-012",
+        "email_id": "RUN-3cd8dab0d7b5-STU-012",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402757+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-013",
+        "email_id": "RUN-3cd8dab0d7b5-STU-013",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402761+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-014",
+        "email_id": "RUN-3cd8dab0d7b5-STU-014",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402764+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-015",
+        "email_id": "RUN-3cd8dab0d7b5-STU-015",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402769+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-016",
+        "email_id": "RUN-3cd8dab0d7b5-STU-016",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402773+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-017",
+        "email_id": "RUN-3cd8dab0d7b5-STU-017",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402780+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-018",
+        "email_id": "RUN-3cd8dab0d7b5-STU-018",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402783+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-019",
+        "email_id": "RUN-3cd8dab0d7b5-STU-019",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402786+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-020",
+        "email_id": "RUN-3cd8dab0d7b5-STU-020",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402789+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-021",
+        "email_id": "RUN-3cd8dab0d7b5-STU-021",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402793+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-022",
+        "email_id": "RUN-3cd8dab0d7b5-STU-022",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402796+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-023",
+        "email_id": "RUN-3cd8dab0d7b5-STU-023",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402799+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-024",
+        "email_id": "RUN-3cd8dab0d7b5-STU-024",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402803+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-3cd8dab0d7b5-STU-025",
+        "email_id": "RUN-3cd8dab0d7b5-STU-025",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402806+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-3cd8dab0d7b5-TEA-001",
+        "email_id": "RUN-3cd8dab0d7b5-TEA-001",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402809+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-3cd8dab0d7b5-TEA-002",
+        "email_id": "RUN-3cd8dab0d7b5-TEA-002",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:17:07.402812+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-3cd8dab0d7b5-TEA-003",
+        "email_id": "RUN-3cd8dab0d7b5-TEA-003",
+        "workflow_run_id": "RUN-3cd8dab0d7b5"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.259885+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-001",
+        "email_id": "RUN-37c2771641a2-STU-001",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Keep Going in Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260037+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-002",
+        "email_id": "RUN-37c2771641a2-STU-002",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "charlie.brown@example.com",
+        "subject": "Keep Going in World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260044+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-003",
+        "email_id": "RUN-37c2771641a2-STU-003",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260050+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-004",
+        "email_id": "RUN-37c2771641a2-STU-004",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260055+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-005",
+        "email_id": "RUN-37c2771641a2-STU-005",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "frank.white@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260060+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-006",
+        "email_id": "RUN-37c2771641a2-STU-006",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260065+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-007",
+        "email_id": "RUN-37c2771641a2-STU-007",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "henry.moore@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260069+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-008",
+        "email_id": "RUN-37c2771641a2-STU-008",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "ivy.green@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260074+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-009",
+        "email_id": "RUN-37c2771641a2-STU-009",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "jack.black@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260078+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-010",
+        "email_id": "RUN-37c2771641a2-STU-010",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "karen.red@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260083+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-011",
+        "email_id": "RUN-37c2771641a2-STU-011",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "leo.blue@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260087+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-012",
+        "email_id": "RUN-37c2771641a2-STU-012",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "mia.wong@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260092+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-013",
+        "email_id": "RUN-37c2771641a2-STU-013",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "noah.davis@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260096+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-014",
+        "email_id": "RUN-37c2771641a2-STU-014",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "olivia.hall@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260101+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-015",
+        "email_id": "RUN-37c2771641a2-STU-015",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "peter.king@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260105+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-016",
+        "email_id": "RUN-37c2771641a2-STU-016",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "quinn.lee@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260109+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-017",
+        "email_id": "RUN-37c2771641a2-STU-017",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "rachel.scott@example.com",
+        "subject": "Action Required: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260123+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-018",
+        "email_id": "RUN-37c2771641a2-STU-018",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "sam.taylor@example.com",
+        "subject": "Action Required: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260128+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-019",
+        "email_id": "RUN-37c2771641a2-STU-019",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "tina.hill@example.com",
+        "subject": "Action Required: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260133+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-020",
+        "email_id": "RUN-37c2771641a2-STU-020",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "alice.smith@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260137+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-021",
+        "email_id": "RUN-37c2771641a2-STU-021",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "bob.johnson@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260142+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-022",
+        "email_id": "RUN-37c2771641a2-STU-022",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "diana.prince@example.com",
+        "subject": "Reminder: Linear Algebra",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260147+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-023",
+        "email_id": "RUN-37c2771641a2-STU-023",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "eve.adams@example.com",
+        "subject": "Reminder: Introduction to Computer Science",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260152+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-024",
+        "email_id": "RUN-37c2771641a2-STU-024",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "grace.kelly@example.com",
+        "subject": "Reminder: World History I",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260156+00:00",
+        "email_type": "student_notification",
+        "fingerprint": "RUN-37c2771641a2-STU-025",
+        "email_id": "RUN-37c2771641a2-STU-025",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "johnson@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260161+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-37c2771641a2-TEA-001",
+        "email_id": "RUN-37c2771641a2-TEA-001",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "brown@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260166+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-37c2771641a2-TEA-002",
+        "email_id": "RUN-37c2771641a2-TEA-002",
+        "workflow_run_id": "RUN-37c2771641a2"
+    },
+    {
+        "recipient": "smith@test.fi",
+        "subject": "Summary: Students with 0% Progress",
+        "status": "sent",
+        "sent_at": "2026-08-15T12:57:19.260172+00:00",
+        "email_type": "teacher_summary",
+        "fingerprint": "RUN-37c2771641a2-TEA-003",
+        "email_id": "RUN-37c2771641a2-TEA-003",
+        "workflow_run_id": "RUN-37c2771641a2"
     }
 ]

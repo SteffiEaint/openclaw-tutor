@@ -4,157 +4,226 @@
             "to": "alice.smith@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Alice Smith,\n\nYou currently have 22.22% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-001",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "bob.johnson@example.com",
             "subject": "Keep Going in Linear Algebra",
             "body": "Dear Bob Johnson,\n\nGreat work! You have reached 33.33% progress in Linear Algebra.\n\nKeep up the good work!\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-002",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "charlie.brown@example.com",
             "subject": "Keep Going in World History I",
             "body": "Dear Charlie Brown,\n\nGreat work! You have reached 40.0% progress in World History I.\n\nKeep up the good work!\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-003",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "diana.prince@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Diana Prince,\n\nYou currently have 11.11% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-004",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "eve.adams@example.com",
             "subject": "Reminder: Linear Algebra",
             "body": "Dear Eve Adams,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-005",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "frank.white@example.com",
             "subject": "Reminder: World History I",
             "body": "Dear Frank White,\n\nYou currently have 20.0% progress in World History I.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-006",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "grace.kelly@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Grace Kelly,\n\nYou currently have 11.11% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-007",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "henry.moore@example.com",
             "subject": "Reminder: Linear Algebra",
             "body": "Dear Henry Moore,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-008",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "ivy.green@example.com",
             "subject": "Reminder: World History I",
             "body": "Dear Ivy Green,\n\nYou currently have 20.0% progress in World History I.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-009",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "jack.black@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Jack Black,\n\nYou currently have 11.11% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-010",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "karen.red@example.com",
             "subject": "Reminder: Linear Algebra",
             "body": "Dear Karen Red,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-011",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "leo.blue@example.com",
             "subject": "Reminder: World History I",
             "body": "Dear Leo Blue,\n\nYou currently have 20.0% progress in World History I.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-012",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "mia.wong@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Mia Wong,\n\nYou currently have 11.11% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-013",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "noah.davis@example.com",
             "subject": "Reminder: Linear Algebra",
             "body": "Dear Noah Davis,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-014",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "olivia.hall@example.com",
             "subject": "Reminder: World History I",
             "body": "Dear Olivia Hall,\n\nYou currently have 20.0% progress in World History I.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-015",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "peter.king@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Peter King,\n\nYou currently have 11.11% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-016",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "quinn.lee@example.com",
             "subject": "Action Required: Linear Algebra",
             "body": "Dear Quinn Lee,\n\nOur records show that your current progress in Linear Algebra is 0.0%.\n\nPlease begin working on your coursework as soon as possible to avoid falling behind.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-017",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "rachel.scott@example.com",
             "subject": "Action Required: World History I",
             "body": "Dear Rachel Scott,\n\nOur records show that your current progress in World History I is 0.0%.\n\nPlease begin working on your coursework as soon as possible to avoid falling behind.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-018",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "sam.taylor@example.com",
             "subject": "Action Required: Introduction to Computer Science",
             "body": "Dear Sam Taylor,\n\nOur records show that your current progress in Introduction to Computer Science is 0.0%.\n\nPlease begin working on your coursework as soon as possible to avoid falling behind.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-019",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "tina.hill@example.com",
             "subject": "Action Required: Linear Algebra",
             "body": "Dear Tina Hill,\n\nOur records show that your current progress in Linear Algebra is 0.0%.\n\nPlease begin working on your coursework as soon as possible to avoid falling behind.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-020",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "alice.smith@example.com",
             "subject": "Reminder: Linear Algebra",
             "body": "Dear Alice Smith,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-021",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "bob.johnson@example.com",
             "subject": "Reminder: World History I",
             "body": "Dear Bob Johnson,\n\nYou currently have 20.0% progress in World History I.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-022",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "diana.prince@example.com",
             "subject": "Reminder: Linear Algebra",
             "body": "Dear Diana Prince,\n\nYou currently have 16.67% progress in Linear Algebra.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-023",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "eve.adams@example.com",
             "subject": "Reminder: Introduction to Computer Science",
             "body": "Dear Eve Adams,\n\nYou currently have 11.11% progress in Introduction to Computer Science.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-024",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "grace.kelly@example.com",
             "subject": "Reminder: World History I",
             "body": "Dear Grace Kelly,\n\nYou currently have 20.0% progress in World History I.\n\nThis is a friendly reminder to continue working on your remaining assignments.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
-        },
-        {
-            "to": "alice.smith@example.com",
-            "subject": "Late Submission: CS101 - Homework 1: Conditional Statements",
-            "body": "Dear Alice Smith,\n\nYour submission for 'CS101 - Homework 1: Conditional Statements' was received after the deadline.\n\nThe submission has been marked as late.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "student_notification"
+            "type": "student_notification",
+            "emailId": "RUN-37c2771641a2-STU-025",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         }
     ],
     "teacher_summary_emails": [
@@ -162,19 +231,28 @@
             "to": "johnson@test.fi",
             "subject": "Summary: Students with 0% Progress",
             "body": "Dear Prof. Johnson,\n\nThe following students currently have 0% progress:\n\n- Quinn Lee (quinn.lee@example.com)\n  Course: Linear Algebra\n  Progress: 0.0%\n\n- Tina Hill (tina.hill@example.com)\n  Course: Linear Algebra\n  Progress: 0.0%\n\nPlease follow up with these students if necessary.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "teacher_summary"
+            "type": "teacher_summary",
+            "emailId": "RUN-37c2771641a2-TEA-001",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "brown@test.fi",
             "subject": "Summary: Students with 0% Progress",
             "body": "Dear Dr. Brown,\n\nThe following students currently have 0% progress:\n\n- Rachel Scott (rachel.scott@example.com)\n  Course: World History I\n  Progress: 0.0%\n\nPlease follow up with these students if necessary.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "teacher_summary"
+            "type": "teacher_summary",
+            "emailId": "RUN-37c2771641a2-TEA-002",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         },
         {
             "to": "smith@test.fi",
             "subject": "Summary: Students with 0% Progress",
             "body": "Dear Dr. Smith,\n\nThe following students currently have 0% progress:\n\n- Sam Taylor (sam.taylor@example.com)\n  Course: Introduction to Computer Science\n  Progress: 0.0%\n\nPlease follow up with these students if necessary.\n\nBest regards,\nOpenClaw Tutor",
-            "type": "teacher_summary"
+            "type": "teacher_summary",
+            "emailId": "RUN-37c2771641a2-TEA-003",
+            "workflowRunId": "RUN-37c2771641a2",
+            "generatedAt": "2026-08-15T12:57:19.079531+00:00"
         }
     ]
 }

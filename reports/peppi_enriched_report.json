@@ -30,7 +30,8 @@
         "assignments_due": [
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
-            "LA102 - Homework 2: Eigenvalues and Eigenvectors"
+            "LA102 - Homework 2: Eigenvalues and Eigenvectors",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Bob Johnson",
@@ -92,7 +93,8 @@
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Eve Adams",
@@ -155,7 +157,8 @@
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Henry Moore",
@@ -218,7 +221,8 @@
             "LA102 - Homework 1: Vector Spaces",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Karen Red",
@@ -281,7 +285,8 @@
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Noah Davis",
@@ -345,7 +350,8 @@
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "No completed assignments",
         "student_name": "Quinn Lee",
@@ -411,7 +417,8 @@
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "No completed assignments",
         "student_name": "Tina Hill",
@@ -432,7 +439,8 @@
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Alice Smith",
@@ -474,7 +482,8 @@
             "LA102 - Quiz 1: Matrices",
             "LA102 - Project 1: System of Equations",
             "LA102 - Homework 2: Eigenvalues and Eigenvectors",
-            "LA102 - Midterm Exam"
+            "LA102 - Midterm Exam",
+            "LA102 - Final Project: Linear Transformations"
         ],
         "status": "Behind schedule",
         "student_name": "Diana Prince",

@@ -1,4 +1,6 @@
 import json
+import uuid
+from datetime import datetime, timezone
 from pathlib import Path
 
 from create_student_email import generate_student_email_object
@@ -32,6 +34,9 @@ def generate_all_emails():
         print("Invalid notification queue.")
         return
 
+    run_id = f"RUN-{uuid.uuid4().hex[:12]}"
+    generated_at = datetime.now(timezone.utc).isoformat()
+
     student_emails = []
     teacher_summary_emails = []
 
@@ -40,20 +45,22 @@ def generate_all_emails():
         notification_type = notification.get("notification_type")
 
         if recipient_type == "student":
-            student_emails.append(
-                generate_student_email_object(notification)
-            )
+            email = generate_student_email_object(notification)
+            email["emailId"] = f"{run_id}-STU-{len(student_emails)+1:03d}"
+            email["workflowRunId"] = run_id
+            email["generatedAt"] = generated_at
+            student_emails.append(email)
 
         elif (
             recipient_type == "teacher"
             and notification_type == "teacher_summary"
         ):
 
-            teacher_summary_emails.append(
-                generate_teacher_summary_email_object(
-                    notification
-                )
-            )
+            email = generate_teacher_summary_email_object(notification)
+            email["emailId"] = f"{run_id}-TEA-{len(teacher_summary_emails)+1:03d}"
+            email["workflowRunId"] = run_id
+            email["generatedAt"] = generated_at
+            teacher_summary_emails.append(email)
 
     output = {
         "student_emails": student_emails,

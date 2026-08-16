@@ -1,0 +1,36 @@
+[
+    {
+        "reportId": "ZR-409B04CC47",
+        "generatedAt": "2026-08-15T13:28:17.428503+00:00",
+        "courseId": "C101",
+        "courseName": "Introduction to Computer Science",
+        "courseUrl": "https://peppimock.local/c101",
+        "teacher": {
+            "course_id": "C101",
+            "teacher_name": "Dr. Smith",
+            "teacher_id": "T001",
+            "teacher_email": "smith@test.fi"
+        },
+        "zeroActivityStudents": [
+            {
+                "studentId": "S019",
+                "studentName": "Sam Taylor",
+                "studentEmail": "sam.taylor@example.com",
+                "assignmentCount": 5,
+                "completionRecords": 5,
+                "completedAssignments": 0,
+                "submittedOrReturned": 0,
+                "recordedActivity": false,
+                "progressPercentage": 0.0,
+                "statuses": [
+                    "missing",
+                    "missing",
+                    "missing",
+                    "missing",
+                    "missing"
+                ]
+            }
+        ],
+        "count": 1
+    }
+]

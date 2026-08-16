@@ -6,12 +6,16 @@
         "notifications": true,
         "mailer": true
     },
-
     "dry_run": false,
-
     "scheduler": {
         "mode": "interval",
         "interval": 30,
         "unit": "seconds"
+    },
+    "openclaw": {
+        "skill": "tutor-system",
+        "toolEntrypoint": "skills/tutor-system/scripts/tutor_tool.py",
+        "focusedToolsDir": "skills/tutor-system/tools",
+        "notes": "OpenClaw uses its built-in exec capability to call these repository adapters; the adapters reuse existing deterministic Python workflow scripts and mock data."
     }
 }

@@ -57,8 +57,13 @@ def ingest_generated_emails():
 
     for category in ("student_emails", "teacher_summary_emails"):
         for email in generated.get(category, []):
+            # emailId is unique per workflow run. This is deliberately used
+            # instead of the email content so identical reminders generated
+            # on different runs appear as separate messages in MailerMock.
+            email_id = email.get("emailId")
+            key = str(email_id) if email_id else message_key(email)
             message = {
-                "id": f"AUTO-{message_key(email)[:12]}",
+                "id": f"AUTO-{key}",
                 "from": SYSTEM_USER["email"],
                 "fromName": SYSTEM_USER["name"],
                 "to": email.get("to", ""),
@@ -66,10 +71,11 @@ def ingest_generated_emails():
                 "body": email.get("body", ""),
                 "status": "delivered",
                 "source": "OpenClaw workflow",
-                "createdAt": now,
+                "createdAt": email.get("generatedAt", now),
+                "workflowRunId": email.get("workflowRunId"),
+                "emailId": email_id,
                 "read": False,
             }
-            key = message_key(message)
             if key in keys:
                 continue
             message["sourceKey"] = key

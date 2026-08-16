@@ -17,8 +17,8 @@
         "completionId": "CM003",
         "studentId": "S001",
         "assignmentId": "A003",
-        "status": "missing",
-        "submittedAt": null
+        "status": "late",
+        "submittedAt": "2026-08-05T10:00:00Z"
     },
     {
         "completionId": "CM004",
@@ -878,63 +878,63 @@
         "completionId": "CM126",
         "studentId": "S002",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM127",
         "studentId": "S005",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM128",
         "studentId": "S008",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM129",
         "studentId": "S011",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM130",
         "studentId": "S014",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM131",
         "studentId": "S017",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM132",
         "studentId": "S020",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM133",
         "studentId": "S001",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
         "completionId": "CM134",
         "studentId": "S004",
         "assignmentId": "A016",
-        "status": "in-progress",
+        "status": "missing",
         "submittedAt": null
     },
     {
